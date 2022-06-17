@@ -1,57 +1,91 @@
-[0m[[0m[31merror[0m] [0m[0morg.apache.spark.sql.AnalysisException: Table or view not found: sales; line 1 pos 499[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.package$AnalysisErrorAt.failAnalysis(package.scala:47)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer$ResolveRelations$.org$apache$spark$sql$catalyst$analysis$Analyzer$ResolveRelations$$lookupTableFromCatalog(Analyzer.scala:665)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer$ResolveRelations$.resolveRelation(Analyzer.scala:617)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer$ResolveRelations$$anonfun$apply$8.applyOrElse(Analyzer.scala:647)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer$ResolveRelations$$anonfun$apply$8.applyOrElse(Analyzer.scala:640)[0m
+[0m[[0m[31merror[0m] [0m[0morg.apache.spark.sql.AnalysisException: cannot resolve '`Website`' given input columns: [sales.Product_ID, sales.Order_ID, sales.Price, sales.Customer_name, sales.City, sales.Qty, sales.Product_Name, sales.Payment_Type, sales.Payment_txn_success, sales.Country, sales.Payment_txn_id, sales.Ecomerence_website_name, sales.Date, sales.ProductCat, sales.Customer_ID, sales.Time, sales.Failure_Reason]; line 1 pos 152;[0m
+[0m[[0m[31merror[0m] [0m[0m'Project ['t4.Ecomerence_website_name, 't4.TotalSales, 'UnderADollarQty, 'FreeQty][0m
+[0m[[0m[31merror[0m] [0m[0m+- 'Join Inner, ('t3.Ecomerence_website_name = 't4.Ecomerence_website_name)[0m
+[0m[[0m[31merror[0m] [0m[0m   :- 'SubqueryAlias t3[0m
+[0m[[0m[31merror[0m] [0m[0m   :  +- 'Sort ['UnderADollarQty DESC NULLS LAST], true[0m
+[0m[[0m[31merror[0m] [0m[0m   :     +- 'Project ['t1.Ecomerence_website_name, 'UnderADollarQty, 'FreeQty][0m
+[0m[[0m[31merror[0m] [0m[0m   :        +- 'Join Inner, ('t1.Ecomerence_website_name = 't2.Ecomerence_website_name)[0m
+[0m[[0m[31merror[0m] [0m[0m   :           :- 'SubqueryAlias t1[0m
+[0m[[0m[31merror[0m] [0m[0m   :           :  +- 'Aggregate [Ecomerence_website_name#13], ['Website, sum(cast(QTY#7 as double)) AS UnderADollarQty#134][0m
+[0m[[0m[31merror[0m] [0m[0m   :           :     +- Filter (((cast(Price#8 as decimal(10,2)) > cast(0.00 as decimal(10,2))) && (cast(Price#8 as decimal(10,2)) < cast(1.00 as decimal(10,2)))) && (Payment_txn_success#15 = Y))[0m
+[0m[[0m[31merror[0m] [0m[0m   :           :        +- SubqueryAlias sales[0m
+[0m[[0m[31merror[0m] [0m[0m   :           :           +- Relation[Order_ID#0,Customer_ID#1,Customer_name#2,Product_ID#3,Product_Name#4,ProductCat#5,Payment_Type#6,Qty#7,Price#8,Date#9,Time#10,Country#11,City#12,Ecomerence_website_name#13,Payment_txn_id#14,Payment_txn_success#15,Failure_Reason#16] csv[0m
+[0m[[0m[31merror[0m] [0m[0m   :           +- SubqueryAlias t2[0m
+[0m[[0m[31merror[0m] [0m[0m   :              +- Aggregate [Ecomerence_website_name#13], [Ecomerence_website_name#13, sum(cast(Qty#7 as double)) AS FreeQty#135][0m
+[0m[[0m[31merror[0m] [0m[0m   :                 +- Filter ((cast(Price#8 as decimal(10,2)) = cast(cast(0 as decimal(1,0)) as decimal(10,2))) && (Payment_txn_success#15 = Y))[0m
+[0m[[0m[31merror[0m] [0m[0m   :                    +- SubqueryAlias sales[0m
+[0m[[0m[31merror[0m] [0m[0m   :                       +- Relation[Order_ID#0,Customer_ID#1,Customer_name#2,Product_ID#3,Product_Name#4,ProductCat#5,Payment_Type#6,Qty#7,Price#8,Date#9,Time#10,Country#11,City#12,Ecomerence_website_name#13,Payment_txn_id#14,Payment_txn_success#15,Failure_Reason#16] csv[0m
+[0m[[0m[31merror[0m] [0m[0m   +- SubqueryAlias t4[0m
+[0m[[0m[31merror[0m] [0m[0m      +- Aggregate [Ecomerence_website_name#13], [Ecomerence_website_name#13, round(sum((cast(Qty#7 as double) * cast(Price#8 as double))), 2) AS TotalSales#136][0m
+[0m[[0m[31merror[0m] [0m[0m         +- SubqueryAlias sales[0m
+[0m[[0m[31merror[0m] [0m[0m            +- Relation[Order_ID#0,Customer_ID#1,Customer_name#2,Product_ID#3,Product_Name#4,ProductCat#5,Payment_Type#6,Qty#7,Price#8,Date#9,Time#10,Country#11,City#12,Ecomerence_website_name#13,Payment_txn_id#14,Payment_txn_success#15,Failure_Reason#16] csv[0m
+[0m[[0m[31merror[0m] [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.package$AnalysisErrorAt.failAnalysis(package.scala:42)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis$$anonfun$checkAnalysis$1$$anonfun$apply$2.applyOrElse(CheckAnalysis.scala:92)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis$$anonfun$checkAnalysis$1$$anonfun$apply$2.applyOrElse(CheckAnalysis.scala:89)[0m
 [0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$transformUp$1.apply(TreeNode.scala:289)[0m
 [0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$transformUp$1.apply(TreeNode.scala:289)[0m
 [0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.CurrentOrigin$.withOrigin(TreeNode.scala:70)[0m
 [0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.transformUp(TreeNode.scala:288)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$4.apply(TreeNode.scala:306)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapProductIterator(TreeNode.scala:187)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapChildren(TreeNode.scala:304)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.transformUp(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$4.apply(TreeNode.scala:306)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapProductIterator(TreeNode.scala:187)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapChildren(TreeNode.scala:304)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.transformUp(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$4.apply(TreeNode.scala:306)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapProductIterator(TreeNode.scala:187)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapChildren(TreeNode.scala:304)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.transformUp(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$4.apply(TreeNode.scala:306)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapProductIterator(TreeNode.scala:187)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapChildren(TreeNode.scala:304)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.transformUp(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer$ResolveRelations$.apply(Analyzer.scala:640)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer$ResolveRelations$.apply(Analyzer.scala:586)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.rules.RuleExecutor$$anonfun$execute$1$$anonfun$apply$1.apply(RuleExecutor.scala:87)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.rules.RuleExecutor$$anonfun$execute$1$$anonfun$apply$1.apply(RuleExecutor.scala:84)[0m
-[0m[[0m[31merror[0m] [0m[0m	at scala.collection.LinearSeqOptimized$class.foldLeft(LinearSeqOptimized.scala:124)[0m
-[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.List.foldLeft(List.scala:84)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.rules.RuleExecutor$$anonfun$execute$1.apply(RuleExecutor.scala:84)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.rules.RuleExecutor$$anonfun$execute$1.apply(RuleExecutor.scala:76)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.plans.QueryPlan$$anonfun$transformExpressionsUp$1.apply(QueryPlan.scala:95)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.plans.QueryPlan$$anonfun$transformExpressionsUp$1.apply(QueryPlan.scala:95)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.plans.QueryPlan$$anonfun$1.apply(QueryPlan.scala:107)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.plans.QueryPlan$$anonfun$1.apply(QueryPlan.scala:107)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.CurrentOrigin$.withOrigin(TreeNode.scala:70)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.plans.QueryPlan.transformExpression$1(QueryPlan.scala:106)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.plans.QueryPlan.org$apache$spark$sql$catalyst$plans$QueryPlan$$recursiveTransform$1(QueryPlan.scala:118)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.plans.QueryPlan$$anonfun$org$apache$spark$sql$catalyst$plans$QueryPlan$$recursiveTransform$1$1.apply(QueryPlan.scala:122)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234)[0m
 [0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.List.foreach(List.scala:392)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.rules.RuleExecutor.execute(RuleExecutor.scala:76)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer.org$apache$spark$sql$catalyst$analysis$Analyzer$$executeSameContext(Analyzer.scala:124)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer.execute(Analyzer.scala:118)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer.executeAndCheck(Analyzer.scala:103)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.TraversableLike$class.map(TraversableLike.scala:234)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.List.map(List.scala:296)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.plans.QueryPlan.org$apache$spark$sql$catalyst$plans$QueryPlan$$recursiveTransform$1(QueryPlan.scala:122)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.plans.QueryPlan$$anonfun$2.apply(QueryPlan.scala:127)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapProductIterator(TreeNode.scala:187)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.plans.QueryPlan.mapExpressions(QueryPlan.scala:127)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.plans.QueryPlan.transformExpressionsUp(QueryPlan.scala:95)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis$$anonfun$checkAnalysis$1.apply(CheckAnalysis.scala:89)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis$$anonfun$checkAnalysis$1.apply(CheckAnalysis.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:127)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$foreachUp$1.apply(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$foreachUp$1.apply(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.List.foreach(List.scala:392)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$foreachUp$1.apply(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$foreachUp$1.apply(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.List.foreach(List.scala:392)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$foreachUp$1.apply(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$foreachUp$1.apply(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.List.foreach(List.scala:392)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$foreachUp$1.apply(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$foreachUp$1.apply(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.List.foreach(List.scala:392)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$foreachUp$1.apply(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$foreachUp$1.apply(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.List.foreach(List.scala:392)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$foreachUp$1.apply(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$foreachUp$1.apply(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.List.foreach(List.scala:392)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$foreachUp$1.apply(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$foreachUp$1.apply(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.List.foreach(List.scala:392)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.foreachUp(TreeNode.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.CheckAnalysis$class.checkAnalysis(CheckAnalysis.scala:84)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer.checkAnalysis(Analyzer.scala:92)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer.executeAndCheck(Analyzer.scala:105)[0m
 [0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.execution.QueryExecution.analyzed$lzycompute(QueryExecution.scala:57)[0m
 [0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.execution.QueryExecution.analyzed(QueryExecution.scala:55)[0m
 [0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.execution.QueryExecution.assertAnalyzed(QueryExecution.scala:47)[0m
 [0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.Dataset$.ofRows(Dataset.scala:74)[0m
 [0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.SparkSession.sql(SparkSession.scala:642)[0m
-[0m[[0m[31merror[0m] [0m[0m	at queryCSV$.UnderADollar$1(queryCSV.scala:136)[0m
-[0m[[0m[31merror[0m] [0m[0m	at queryCSV$.main(queryCSV.scala:139)[0m
+[0m[[0m[31merror[0m] [0m[0m	at queryCSV$.websiteFreeQty$1(queryCSV.scala:237)[0m
+[0m[[0m[31merror[0m] [0m[0m	at queryCSV$.main(queryCSV.scala:241)[0m
 [0m[[0m[31merror[0m] [0m[0m	at queryCSV.main(queryCSV.scala)[0m
 [0m[[0m[31merror[0m] [0m[0m	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
 [0m[[0m[31merror[0m] [0m[0m	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)[0m
@@ -70,78 +104,24 @@
 [0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)[0m
 [0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)[0m
 [0m[[0m[31merror[0m] [0m[0m	at java.lang.Thread.run(Unknown Source)[0m
-[0m[[0m[31merror[0m] [0m[0mCaused by: org.apache.spark.sql.catalyst.analysis.NoSuchTableException: Table or view 'sales' not found in database 'default';[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.catalog.ExternalCatalog.requireTableExists(ExternalCatalog.scala:46)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.catalog.InMemoryCatalog.getTable(InMemoryCatalog.scala:326)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.catalog.SessionCatalog.lookupRelation(SessionCatalog.scala:669)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer$ResolveRelations$.org$apache$spark$sql$catalyst$analysis$Analyzer$ResolveRelations$$lookupTableFromCatalog(Analyzer.scala:662)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer$ResolveRelations$.resolveRelation(Analyzer.scala:617)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer$ResolveRelations$$anonfun$apply$8.applyOrElse(Analyzer.scala:647)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer$ResolveRelations$$anonfun$apply$8.applyOrElse(Analyzer.scala:640)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$transformUp$1.apply(TreeNode.scala:289)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$transformUp$1.apply(TreeNode.scala:289)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.CurrentOrigin$.withOrigin(TreeNode.scala:70)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.transformUp(TreeNode.scala:288)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$4.apply(TreeNode.scala:306)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapProductIterator(TreeNode.scala:187)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapChildren(TreeNode.scala:304)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.transformUp(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$4.apply(TreeNode.scala:306)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapProductIterator(TreeNode.scala:187)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapChildren(TreeNode.scala:304)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.transformUp(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$4.apply(TreeNode.scala:306)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapProductIterator(TreeNode.scala:187)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapChildren(TreeNode.scala:304)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.transformUp(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$3.apply(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode$$anonfun$4.apply(TreeNode.scala:306)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapProductIterator(TreeNode.scala:187)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.mapChildren(TreeNode.scala:304)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.trees.TreeNode.transformUp(TreeNode.scala:286)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer$ResolveRelations$.apply(Analyzer.scala:640)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer$ResolveRelations$.apply(Analyzer.scala:586)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.rules.RuleExecutor$$anonfun$execute$1$$anonfun$apply$1.apply(RuleExecutor.scala:87)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.rules.RuleExecutor$$anonfun$execute$1$$anonfun$apply$1.apply(RuleExecutor.scala:84)[0m
-[0m[[0m[31merror[0m] [0m[0m	at scala.collection.LinearSeqOptimized$class.foldLeft(LinearSeqOptimized.scala:124)[0m
-[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.List.foldLeft(List.scala:84)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.rules.RuleExecutor$$anonfun$execute$1.apply(RuleExecutor.scala:84)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.rules.RuleExecutor$$anonfun$execute$1.apply(RuleExecutor.scala:76)[0m
-[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.List.foreach(List.scala:392)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.rules.RuleExecutor.execute(RuleExecutor.scala:76)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer.org$apache$spark$sql$catalyst$analysis$Analyzer$$executeSameContext(Analyzer.scala:124)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer.execute(Analyzer.scala:118)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.catalyst.analysis.Analyzer.executeAndCheck(Analyzer.scala:103)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.execution.QueryExecution.analyzed$lzycompute(QueryExecution.scala:57)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.execution.QueryExecution.analyzed(QueryExecution.scala:55)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.execution.QueryExecution.assertAnalyzed(QueryExecution.scala:47)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.Dataset$.ofRows(Dataset.scala:74)[0m
-[0m[[0m[31merror[0m] [0m[0m	at org.apache.spark.sql.SparkSession.sql(SparkSession.scala:642)[0m
-[0m[[0m[31merror[0m] [0m[0m	at queryCSV$.UnderADollar$1(queryCSV.scala:136)[0m
-[0m[[0m[31merror[0m] [0m[0m	at queryCSV$.main(queryCSV.scala:139)[0m
-[0m[[0m[31merror[0m] [0m[0m	at queryCSV.main(queryCSV.scala)[0m
-[0m[[0m[31merror[0m] [0m[0m	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
-[0m[[0m[31merror[0m] [0m[0m	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)[0m
-[0m[[0m[31merror[0m] [0m[0m	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)[0m
-[0m[[0m[31merror[0m] [0m[0m	at java.lang.reflect.Method.invoke(Unknown Source)[0m
-[0m[[0m[31merror[0m] [0m[0m	at sbt.Run.invokeMain(Run.scala:143)[0m
-[0m[[0m[31merror[0m] [0m[0m	at sbt.Run.execute$1(Run.scala:93)[0m
-[0m[[0m[31merror[0m] [0m[0m	at sbt.Run.$anonfun$runWithLoader$5(Run.scala:120)[0m
-[0m[[0m[31merror[0m] [0m[0m	at sbt.Run$.executeSuccess(Run.scala:186)[0m
-[0m[[0m[31merror[0m] [0m[0m	at sbt.Run.runWithLoader(Run.scala:120)[0m
-[0m[[0m[31merror[0m] [0m[0m	at sbt.Defaults$.$anonfun$bgRunTask$6(Defaults.scala:1983)[0m
-[0m[[0m[31merror[0m] [0m[0m	at sbt.Defaults$.$anonfun$termWrapper$2(Defaults.scala:1922)[0m
-[0m[[0m[31merror[0m] [0m[0m	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)[0m
-[0m[[0m[31merror[0m] [0m[0m	at scala.util.Try$.apply(Try.scala:213)[0m
-[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.BackgroundThreadPool$BackgroundRunnable.run(DefaultBackgroundJobService.scala:369)[0m
-[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)[0m
-[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)[0m
-[0m[[0m[31merror[0m] [0m[0m	at java.lang.Thread.run(Unknown Source)[0m
-[0m[[0m[31merror[0m] [0m[0m(Compile / [31mrun[0m) org.apache.spark.sql.AnalysisException: Table or view not found: sales; line 1 pos 499[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mrun[0m) org.apache.spark.sql.AnalysisException: cannot resolve '`Website`' given input columns: [sales.Product_ID, sales.Order_ID, sales.Price, sales.Customer_name, sales.City, sales.Qty, sales.Product_Name, sales.Payment_Type, sales.Payment_txn_success, sales.Country, sales.Payment_txn_id, sales.Ecomerence_website_name, sales.Date, sales.ProductCat, sales.Customer_ID, sales.Time, sales.Failure_Reason]; line 1 pos 152;[0m
+[0m[[0m[31merror[0m] [0m[0m'Project ['t4.Ecomerence_website_name, 't4.TotalSales, 'UnderADollarQty, 'FreeQty][0m
+[0m[[0m[31merror[0m] [0m[0m+- 'Join Inner, ('t3.Ecomerence_website_name = 't4.Ecomerence_website_name)[0m
+[0m[[0m[31merror[0m] [0m[0m   :- 'SubqueryAlias t3[0m
+[0m[[0m[31merror[0m] [0m[0m   :  +- 'Sort ['UnderADollarQty DESC NULLS LAST], true[0m
+[0m[[0m[31merror[0m] [0m[0m   :     +- 'Project ['t1.Ecomerence_website_name, 'UnderADollarQty, 'FreeQty][0m
+[0m[[0m[31merror[0m] [0m[0m   :        +- 'Join Inner, ('t1.Ecomerence_website_name = 't2.Ecomerence_website_name)[0m
+[0m[[0m[31merror[0m] [0m[0m   :           :- 'SubqueryAlias t1[0m
+[0m[[0m[31merror[0m] [0m[0m   :           :  +- 'Aggregate [Ecomerence_website_name#13], ['Website, sum(cast(QTY#7 as double)) AS UnderADollarQty#134][0m
+[0m[[0m[31merror[0m] [0m[0m   :           :     +- Filter (((cast(Price#8 as decimal(10,2)) > cast(0.00 as decimal(10,2))) && (cast(Price#8 as decimal(10,2)) < cast(1.00 as decimal(10,2)))) && (Payment_txn_success#15 = Y))[0m
+[0m[[0m[31merror[0m] [0m[0m   :           :        +- SubqueryAlias sales[0m
+[0m[[0m[31merror[0m] [0m[0m   :           :           +- Relation[Order_ID#0,Customer_ID#1,Customer_name#2,Product_ID#3,Product_Name#4,ProductCat#5,Payment_Type#6,Qty#7,Price#8,Date#9,Time#10,Country#11,City#12,Ecomerence_website_name#13,Payment_txn_id#14,Payment_txn_success#15,Failure_Reason#16] csv[0m
+[0m[[0m[31merror[0m] [0m[0m   :           +- SubqueryAlias t2[0m
+[0m[[0m[31merror[0m] [0m[0m   :              +- Aggregate [Ecomerence_website_name#13], [Ecomerence_website_name#13, sum(cast(Qty#7 as double)) AS FreeQty#135][0m
+[0m[[0m[31merror[0m] [0m[0m   :                 +- Filter ((cast(Price#8 as decimal(10,2)) = cast(cast(0 as decimal(1,0)) as decimal(10,2))) && (Payment_txn_success#15 = Y))[0m
+[0m[[0m[31merror[0m] [0m[0m   :                    +- SubqueryAlias sales[0m
+[0m[[0m[31merror[0m] [0m[0m   :                       +- Relation[Order_ID#0,Customer_ID#1,Customer_name#2,Product_ID#3,Product_Name#4,ProductCat#5,Payment_Type#6,Qty#7,Price#8,Date#9,Time#10,Country#11,City#12,Ecomerence_website_name#13,Payment_txn_id#14,Payment_txn_success#15,Failure_Reason#16] csv[0m
+[0m[[0m[31merror[0m] [0m[0m   +- SubqueryAlias t4[0m
+[0m[[0m[31merror[0m] [0m[0m      +- Aggregate [Ecomerence_website_name#13], [Ecomerence_website_name#13, round(sum((cast(Qty#7 as double) * cast(Price#8 as double))), 2) AS TotalSales#136][0m
+[0m[[0m[31merror[0m] [0m[0m         +- SubqueryAlias sales[0m
+[0m[[0m[31merror[0m] [0m[0m            +- Relation[Order_ID#0,Customer_ID#1,Customer_name#2,Product_ID#3,Product_Name#4,ProductCat#5,Payment_Type#6,Qty#7,Price#8,Date#9,Time#10,Country#11,City#12,Ecomerence_website_name#13,Payment_txn_id#14,Payment_txn_success#15,Failure_Reason#16] csv[0m
