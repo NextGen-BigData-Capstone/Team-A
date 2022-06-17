@@ -1,0 +1,2279 @@
+2022.06.17 12:34:33 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Khoa\Desktop\Project3\.metals\lsp.trace.json or C:\Users\Khoa\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.06.17 12:34:33 INFO  logging to file C:\Users\Khoa\Desktop\Project3\.metals\metals.log
+2022.06.17 12:34:33 INFO  Started: Metals version 0.11.6 in workspace 'C:\Users\Khoa\Desktop\Project3' for client Visual Studio Code 1.68.1.
+2022.06.17 12:34:34 INFO  time: initialize in 0.82s
+2022.06.17 12:34:34 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.06.17 12:34:34 WARN  Build server is not auto-connectable.
+2022.06.17 12:34:35 WARN  no build target for: C:\Users\Khoa\Desktop\Project3\build.sbt
+2022.06.17 12:34:37 INFO  no build target found for C:\Users\Khoa\Desktop\Project3\build.sbt. Using presentation compiler with project's scala-library version: 3.1.2
+2022.06.17 12:34:38 INFO  running 'C:\Program Files\Java\jdk1.8.0_331\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -Dsbt.version=1.6.2 -jar C:\Users\Khoa\AppData\Local\Temp\metals669310997265528442\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.06.17 12:34:38 INFO  time: code lens generation in 2.81s
+2022.06.17 12:34:39 INFO  [info] Updated file C:\Users\Khoa\Desktop\Project3\project\build.properties: set sbt.version to 1.6.2
+2022.06.17 12:34:39 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 1.8.0_331)
+2022.06.17 12:34:42 INFO  [info] loading settings for project project3-build-build from metals.sbt ...
+2022.06.17 12:34:42 INFO  [info] loading project definition from C:\Users\Khoa\Desktop\Project3\project\project
+2022.06.17 12:34:45 INFO  [info] loading settings for project project3-build from metals.sbt ...
+2022.06.17 12:34:45 INFO  [info] loading project definition from C:\Users\Khoa\Desktop\Project3\project
+2022.06.17 12:34:48 INFO  [success] Generated .bloop\project3-build.json
+2022.06.17 12:34:48 INFO  [success] Total time: 3 s, completed Jun 17, 2022 12:34:48 PM
+2022.06.17 12:34:50 INFO  [info] loading settings for project project3 from build.sbt ...
+2022.06.17 12:34:50 INFO  [info] set current project to TeamA (in build file:/C:/Users/Khoa/Desktop/Project3/)
+2022.06.17 12:34:55 INFO  [success] Generated .bloop\project3.json
+2022.06.17 12:34:55 INFO  [success] Generated .bloop\project3-test.json
+2022.06.17 12:34:55 INFO  [success] Total time: 5 s, completed Jun 17, 2022 12:34:55 PM
+2022.06.17 12:34:56 INFO  time: ran 'sbt bloopInstall' in 18s
+2022.06.17 12:34:56 INFO  Attempting to connect to the build server...
+2022.06.17 12:34:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Khoa\Desktop\Project3\.metals\bsp.trace.json or C:\Users\Khoa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.17 12:34:56 INFO  Attempting to connect to the build server...
+2022.06.17 12:34:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Khoa\Desktop\Project3\project\.metals\bsp.trace.json or C:\Users\Khoa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.17 12:34:56 INFO  time: Connected to build server in 0.2s
+2022.06.17 12:34:56 INFO  Connected to Build server: Bloop v1.5.0-18-003e6c7b
+2022.06.17 12:34:56 INFO  time: Imported build in 0.11s
+2022.06.17 12:35:04 INFO  time: indexed workspace in 7.97s
+2022.06.17 12:35:07 INFO  time: code lens generation in 2.88s
+2022.06.17 12:35:15 INFO  compiling project3 (1 scala source)
+2022.06.17 12:35:15 INFO  time: compiled project3 in 0.46s
+2022.06.17 12:35:30 INFO  compiling project3 (1 scala source)
+2022.06.17 12:35:30 INFO  time: compiled project3 in 0.9s
+2022.06.17 12:35:33 INFO  compiling project3 (1 scala source)
+2022.06.17 12:35:33 INFO  time: compiled project3 in 0.89s
+2022.06.17 12:35:40 INFO  compiling project3 (1 scala source)
+2022.06.17 12:35:40 INFO  time: compiled project3 in 0.35s
+2022.06.17 12:35:43 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:35:43 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:35:44 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:35:44 INFO  compiling project3 (1 scala source)
+2022.06.17 12:35:44 INFO  time: compiled project3 in 0.89s
+2022.06.17 12:35:49 INFO  compiling project3 (1 scala source)
+2022.06.17 12:35:49 INFO  time: compiled project3 in 0.82s
+2022.06.17 12:38:17 INFO  compiling project3 (1 scala source)
+2022.06.17 12:38:17 INFO  time: compiled project3 in 0.84s
+2022.06.17 12:39:14 INFO  compiling project3 (1 scala source)
+2022.06.17 12:39:15 INFO  time: compiled project3 in 1.2s
+2022.06.17 12:39:18 INFO  compiling project3 (1 scala source)
+2022.06.17 12:39:18 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:39:18 INFO  time: compiled project3 in 0.78s
+2022.06.17 12:39:21 INFO  compiling project3 (1 scala source)
+2022.06.17 12:39:21 INFO  time: compiled project3 in 0.82s
+2022.06.17 12:39:34 INFO  compiling project3 (1 scala source)
+2022.06.17 12:39:34 INFO  time: compiled project3 in 0.76s
+2022.06.17 12:39:37 INFO  compiling project3 (1 scala source)
+2022.06.17 12:39:37 INFO  time: compiled project3 in 0.78s
+2022.06.17 12:39:40 INFO  compiling project3 (1 scala source)
+2022.06.17 12:39:40 INFO  time: compiled project3 in 0.79s
+2022.06.17 12:39:45 INFO  compiling project3 (1 scala source)
+2022.06.17 12:39:45 INFO  time: compiled project3 in 0.75s
+2022.06.17 12:39:50 INFO  compiling project3 (1 scala source)
+2022.06.17 12:39:50 INFO  time: compiled project3 in 0.75s
+2022.06.17 12:39:53 INFO  compiling project3 (1 scala source)
+2022.06.17 12:39:53 INFO  time: compiled project3 in 0.76s
+2022.06.17 12:39:56 INFO  compiling project3 (1 scala source)
+2022.06.17 12:39:56 INFO  time: compiled project3 in 0.82s
+2022.06.17 12:39:59 INFO  compiling project3 (1 scala source)
+2022.06.17 12:39:59 INFO  time: compiled project3 in 0.79s
+2022.06.17 12:40:07 INFO  compiling project3 (1 scala source)
+2022.06.17 12:40:08 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:40:07 INFO  time: compiled project3 in 0.81s
+2022.06.17 12:40:10 INFO  compiling project3 (1 scala source)
+2022.06.17 12:40:10 INFO  time: compiled project3 in 0.81s
+2022.06.17 12:40:13 INFO  compiling project3 (1 scala source)
+2022.06.17 12:40:13 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:40:13 INFO  time: compiled project3 in 0.78s
+2022.06.17 12:40:16 INFO  compiling project3 (1 scala source)
+2022.06.17 12:40:16 INFO  time: compiled project3 in 0.72s
+2022.06.17 12:40:19 INFO  compiling project3 (1 scala source)
+2022.06.17 12:40:19 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:40:19 INFO  time: compiled project3 in 0.79s
+2022.06.17 12:40:49 INFO  compiling project3 (1 scala source)
+2022.06.17 12:40:49 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:34:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 12:40:49 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:34:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 12:40:49 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:146:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 12:40:49 INFO  time: compiled project3 in 0.22s
+2022.06.17 12:40:53 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:34:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 12:40:53 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:146:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 12:40:53 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:34:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 12:40:53 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:146:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 12:40:53 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:34:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 12:40:53 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:146:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 12:40:53 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:34:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 12:40:53 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:146:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 12:40:54 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:34:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 12:40:54 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:146:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 12:40:54 INFO  compiling project3 (1 scala source)
+2022.06.17 12:40:54 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:40:54 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:40:54 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:55: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                                      ^
+2022.06.17 12:40:54 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:117:59: stale bloop error: ';' expected but ')' found.
+        val datejoin = Top2018(spark).union(Top2019(spark)).union(Top2020(spark)).union(Top2021(spark)).repartition(1)
+                                                          ^
+2022.06.17 12:40:54 INFO  time: compiled project3 in 0.2s
+2022.06.17 12:41:05 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:41:05 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:55: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                                      ^
+2022.06.17 12:41:05 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:117:59: stale bloop error: ';' expected but ')' found.
+        val datejoin = Top2018(spark).union(Top2019(spark)).union(Top2020(spark)).union(Top2021(spark)).repartition(1)
+                                                          ^
+2022.06.17 12:41:05 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:41:05 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:55: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                                      ^
+2022.06.17 12:41:05 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:117:59: stale bloop error: ';' expected but ')' found.
+        val datejoin = Top2018(spark).union(Top2019(spark)).union(Top2020(spark)).union(Top2021(spark)).repartition(1)
+                                                          ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:55: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                                      ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:117:59: stale bloop error: ';' expected but ')' found.
+        val datejoin = Top2018(spark).union(Top2019(spark)).union(Top2020(spark)).union(Top2021(spark)).repartition(1)
+                                                          ^
+2022.06.17 12:41:06 INFO  compiling project3 (1 scala source)
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:55: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                                      ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:117:59: stale bloop error: ';' expected but ')' found.
+        val datejoin = Top2018(spark).union(Top2019(spark)).union(Top2020(spark)).union(Top2021(spark)).repartition(1)
+                                                          ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:55: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                                      ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:117:59: stale bloop error: ';' expected but ')' found.
+        val datejoin = Top2018(spark).union(Top2019(spark)).union(Top2020(spark)).union(Top2021(spark)).repartition(1)
+                                                          ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:55: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                                      ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:117:59: stale bloop error: ';' expected but ')' found.
+        val datejoin = Top2018(spark).union(Top2019(spark)).union(Top2020(spark)).union(Top2021(spark)).repartition(1)
+                                                          ^
+2022.06.17 12:41:06 INFO  time: compiled project3 in 0.22s
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:55: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                                      ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:117:59: stale bloop error: ';' expected but ')' found.
+        val datejoin = Top2018(spark).union(Top2019(spark)).union(Top2020(spark)).union(Top2021(spark)).repartition(1)
+                                                          ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:55: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                                      ^
+2022.06.17 12:41:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:117:59: stale bloop error: ';' expected but ')' found.
+        val datejoin = Top2018(spark).union(Top2019(spark)).union(Top2020(spark)).union(Top2021(spark)).repartition(1)
+                                                          ^
+2022.06.17 12:41:07 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:41:07 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:55: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                                      ^
+2022.06.17 12:41:07 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:117:59: stale bloop error: ';' expected but ')' found.
+        val datejoin = Top2018(spark).union(Top2019(spark)).union(Top2020(spark)).union(Top2021(spark)).repartition(1)
+                                                          ^
+2022.06.17 12:41:08 INFO  compiling project3 (1 scala source)
+2022.06.17 12:41:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:41:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:41:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:55: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                                      ^
+2022.06.17 12:41:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:115:59: stale bloop error: ';' expected but ')' found.
+        val datejoin = Top2018(spark).union(Top2019(spark)).union(Top2020(spark)).union(Top2021(spark)).repartition(1)
+                                                          ^
+2022.06.17 12:41:08 INFO  time: compiled project3 in 0.21s
+2022.06.17 12:42:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:42:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:55: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                                      ^
+2022.06.17 12:42:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:115:59: stale bloop error: ';' expected but ')' found.
+        val datejoin = Top2018(spark).union(Top2019(spark)).union(Top2020(spark)).union(Top2021(spark)).repartition(1)
+                                                          ^
+2022.06.17 12:42:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:45: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                            ^
+2022.06.17 12:42:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:73:55: stale bloop error: Invalid literal number
+        /QTY Over Time(No transactions from 1pm Until 1AM)
+                                                      ^
+2022.06.17 12:42:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:115:59: stale bloop error: ';' expected but ')' found.
+        val datejoin = Top2018(spark).union(Top2019(spark)).union(Top2020(spark)).union(Top2021(spark)).repartition(1)
+                                                          ^
+2022.06.17 12:42:32 INFO  compiling project3 (1 scala source)
+2022.06.17 12:42:32 INFO  time: compiled project3 in 0.9s
+2022.06.17 12:42:54 INFO  compiling project3 (1 scala source)
+2022.06.17 12:42:54 INFO  time: compiled project3 in 0.3s
+2022.06.17 12:43:27 INFO  compiling project3 (1 scala source)
+2022.06.17 12:43:27 INFO  time: compiled project3 in 0.76s
+2022.06.17 12:44:50 INFO  compiling project3 (1 scala source)
+2022.06.17 12:44:50 INFO  time: compiled project3 in 0.76s
+2022.06.17 12:45:14 INFO  compiling project3 (1 scala source)
+2022.06.17 12:45:14 INFO  time: compiled project3 in 0.8s
+2022.06.17 12:46:09 INFO  compiling project3 (1 scala source)
+2022.06.17 12:46:09 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:34:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 12:46:09 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:34:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 12:46:09 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:144:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 12:46:09 INFO  time: compiled project3 in 0.23s
+2022.06.17 12:46:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:34:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 12:46:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:144:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 12:46:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:34:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 12:46:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:144:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 12:46:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:34:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 12:46:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:144:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 12:46:13 INFO  compiling project3 (1 scala source)
+2022.06.17 12:46:13 INFO  time: compiled project3 in 0.84s
+2022.06.17 12:47:01 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:01 INFO  time: compiled project3 in 0.21s
+2022.06.17 12:47:06 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:06 INFO  time: compiled project3 in 0.22s
+2022.06.17 12:47:08 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:08 INFO  time: compiled project3 in 0.2s
+2022.06.17 12:47:10 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:10 INFO  time: compiled project3 in 0.21s
+2022.06.17 12:47:13 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:13 INFO  time: compiled project3 in 0.22s
+2022.06.17 12:47:15 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:15 INFO  time: compiled project3 in 0.21s
+2022.06.17 12:47:17 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:17 INFO  time: compiled project3 in 0.22s
+2022.06.17 12:47:20 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:20 INFO  time: compiled project3 in 0.2s
+2022.06.17 12:47:22 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:22 INFO  time: compiled project3 in 0.23s
+2022.06.17 12:47:24 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:24 INFO  time: compiled project3 in 0.21s
+2022.06.17 12:47:32 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:32 INFO  time: compiled project3 in 0.23s
+2022.06.17 12:47:37 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:37 INFO  time: compiled project3 in 0.2s
+2022.06.17 12:47:39 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:39 INFO  time: compiled project3 in 0.22s
+2022.06.17 12:47:43 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:43 INFO  time: compiled project3 in 0.21s
+2022.06.17 12:47:50 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:50 INFO  time: compiled project3 in 0.21s
+2022.06.17 12:47:52 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:52 INFO  time: compiled project3 in 0.2s
+2022.06.17 12:47:54 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:54 INFO  time: compiled project3 in 0.22s
+2022.06.17 12:47:57 INFO  compiling project3 (1 scala source)
+2022.06.17 12:47:57 INFO  time: compiled project3 in 0.22s
+2022.06.17 12:48:06 INFO  compiling project3 (1 scala source)
+2022.06.17 12:48:06 INFO  time: compiled project3 in 0.21s
+2022.06.17 12:48:17 INFO  compiling project3 (1 scala source)
+2022.06.17 12:48:17 INFO  time: compiled project3 in 0.21s
+2022.06.17 12:48:24 INFO  compiling project3 (1 scala source)
+2022.06.17 12:48:24 INFO  time: compiled project3 in 0.21s
+2022.06.17 12:48:26 INFO  compiling project3 (1 scala source)
+2022.06.17 12:48:26 INFO  time: compiled project3 in 0.21s
+2022.06.17 12:48:28 INFO  compiling project3 (1 scala source)
+2022.06.17 12:48:28 INFO  time: compiled project3 in 0.2s
+2022.06.17 12:48:31 INFO  compiling project3 (1 scala source)
+2022.06.17 12:48:31 INFO  time: compiled project3 in 0.2s
+2022.06.17 12:48:37 INFO  compiling project3 (1 scala source)
+2022.06.17 12:48:37 INFO  time: compiled project3 in 0.2s
+2022.06.17 12:48:40 INFO  compiling project3 (1 scala source)
+2022.06.17 12:48:40 INFO  time: compiled project3 in 0.21s
+2022.06.17 12:48:43 INFO  compiling project3 (1 scala source)
+2022.06.17 12:48:43 INFO  time: compiled project3 in 0.2s
+2022.06.17 12:48:47 INFO  compiling project3 (1 scala source)
+2022.06.17 12:48:47 INFO  time: compiled project3 in 0.2s
+2022.06.17 12:48:49 INFO  compiling project3 (1 scala source)
+2022.06.17 12:48:49 INFO  time: compiled project3 in 0.2s
+2022.06.17 12:48:51 INFO  compiling project3 (1 scala source)
+2022.06.17 12:48:51 INFO  time: compiled project3 in 0.25s
+2022.06.17 12:48:54 INFO  compiling project3 (1 scala source)
+2022.06.17 12:48:54 INFO  time: compiled project3 in 0.22s
+2022.06.17 12:48:56 INFO  compiling project3 (1 scala source)
+2022.06.17 12:48:56 INFO  time: compiled project3 in 0.22s
+2022.06.17 12:49:01 INFO  compiling project3 (1 scala source)
+2022.06.17 12:49:01 INFO  time: compiled project3 in 0.22s
+2022.06.17 12:49:33 INFO  compiling project3 (1 scala source)
+2022.06.17 12:49:33 INFO  time: compiled project3 in 0.19s
+Jun 17, 2022 12:49:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 147 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:57)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:60)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+Jun 17, 2022 12:49:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 147 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:57)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:60)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+Jun 17, 2022 12:49:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 147 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+2022.06.17 12:49:38 INFO  compiling project3 (1 scala source)
+2022.06.17 12:49:38 INFO  time: compiled project3 in 0.21s
+Jun 17, 2022 12:49:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 147 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+2022.06.17 12:49:42 INFO  compiling project3 (1 scala source)
+2022.06.17 12:49:42 INFO  time: compiled project3 in 0.2s
+Jun 17, 2022 12:49:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+Jun 17, 2022 12:49:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:661)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1990)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.InsertInferredType.$anonfun$contribute$1(InsertInferredType.scala:66)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Jun 17, 2022 12:49:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+2022.06.17 12:49:46 INFO  compiling project3 (1 scala source)
+2022.06.17 12:49:46 INFO  time: compiled project3 in 0.22s
+Jun 17, 2022 12:49:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 149 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+Jun 17, 2022 12:49:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 149 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+2022.06.17 12:49:50 INFO  compiling project3 (1 scala source)
+2022.06.17 12:49:50 INFO  time: compiled project3 in 0.19s
+Jun 17, 2022 12:49:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+Jun 17, 2022 12:49:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+Jun 17, 2022 12:49:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+Jun 17, 2022 12:49:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+Jun 17, 2022 12:49:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+2022.06.17 12:49:55 INFO  compiling project3 (1 scala source)
+2022.06.17 12:49:55 INFO  time: compiled project3 in 0.2s
+Jun 17, 2022 12:49:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+Jun 17, 2022 12:49:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+Jun 17, 2022 12:49:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+Jun 17, 2022 12:49:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+2022.06.17 12:50:00 INFO  compiling project3 (1 scala source)
+2022.06.17 12:50:00 INFO  time: compiled project3 in 0.21s
+Jun 17, 2022 12:50:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+Jun 17, 2022 12:50:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 148 is not a valid line number, allowed [0..146]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1649)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1648)
+	... 15 more
+
+2022.06.17 12:50:04 INFO  compiling project3 (1 scala source)
+2022.06.17 12:50:04 INFO  time: compiled project3 in 0.35s
+2022.06.17 12:50:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:132:17: stale bloop error: ambiguous reference to overloaded definition,
+both method Top_Day_Transactions of type (SPARK: org.apache.spark.sql.SparkSession)org.apache.spark.sql.DataFrame
+and  method Top_Day_Transactions of type (SPARK: org.apache.spark.sql.SparkSession)org.apache.spark.sql.DataFrame
+match argument types (org.apache.spark.sql.SparkSession)
+        val q14=Top_Day_Transactions(spark).repartition(1)
+                ^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:137:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Product_category, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Product_category ORDER BY total_trans LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:143:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:149:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'N' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:148:9: stale bloop error: method Top_Day_Transactions is defined twice
+  conflicting symbols both originated in file 'C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala'
+> def Top_Day_Transactions(SPARK:SparkSession): DataFrame = {
+>         return spark.sql(SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'N' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+>         }
+2022.06.17 12:50:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:132:17: stale bloop error: ambiguous reference to overloaded definition,
+both method Top_Day_Transactions of type (SPARK: org.apache.spark.sql.SparkSession)org.apache.spark.sql.DataFrame
+and  method Top_Day_Transactions of type (SPARK: org.apache.spark.sql.SparkSession)org.apache.spark.sql.DataFrame
+match argument types (org.apache.spark.sql.SparkSession)
+        val q14=Top_Day_Transactions(spark).repartition(1)
+                ^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:137:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Product_category, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Product_category ORDER BY total_trans LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:143:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:149:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'N' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:11 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:148:9: stale bloop error: method Top_Day_Transactions is defined twice
+  conflicting symbols both originated in file 'C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala'
+> def Top_Day_Transactions(SPARK:SparkSession): DataFrame = {
+>         return spark.sql(SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'N' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+>         }
+2022.06.17 12:50:12 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:132:17: stale bloop error: ambiguous reference to overloaded definition,
+both method Top_Day_Transactions of type (SPARK: org.apache.spark.sql.SparkSession)org.apache.spark.sql.DataFrame
+and  method Top_Day_Transactions of type (SPARK: org.apache.spark.sql.SparkSession)org.apache.spark.sql.DataFrame
+match argument types (org.apache.spark.sql.SparkSession)
+        val q14=Top_Day_Transactions(spark).repartition(1)
+                ^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:12 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:137:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Product_category, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Product_category ORDER BY total_trans LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:12 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:143:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:12 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:149:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'N' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:12 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:148:9: stale bloop error: method Top_Day_Transactions is defined twice
+  conflicting symbols both originated in file 'C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala'
+> def Top_Day_Transactions(SPARK:SparkSession): DataFrame = {
+>         return spark.sql(SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'N' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+>         }
+2022.06.17 12:50:12 INFO  compiling project3 (1 scala source)
+2022.06.17 12:50:12 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:149:26: stale bloop error: unclosed string literal
+        return spark.sql("SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'N' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+                         ^
+2022.06.17 12:50:12 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:149:26: stale bloop error: unclosed string literal
+        return spark.sql("SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'N' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+                         ^
+2022.06.17 12:50:12 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:150:9: stale bloop error: ')' expected but '}' found.
+        }
+        ^
+2022.06.17 12:50:12 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:153:57: stale bloop error: ';' expected but '=' found.
+        def UnderADollar(SPARK:SparkSession): DataFrame = {
+                                                        ^
+2022.06.17 12:50:12 INFO  time: compiled project3 in 0.2s
+2022.06.17 12:50:20 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:149:26: stale bloop error: unclosed string literal
+        return spark.sql("SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'N' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+                         ^
+2022.06.17 12:50:20 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:150:9: stale bloop error: ')' expected but '}' found.
+        }
+        ^
+2022.06.17 12:50:20 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:153:57: stale bloop error: ';' expected but '=' found.
+        def UnderADollar(SPARK:SparkSession): DataFrame = {
+                                                        ^
+2022.06.17 12:50:20 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:149:26: stale bloop error: unclosed string literal
+        return spark.sql("SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'N' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+                         ^
+2022.06.17 12:50:20 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:150:9: stale bloop error: ')' expected but '}' found.
+        }
+        ^
+2022.06.17 12:50:20 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:153:57: stale bloop error: ';' expected but '=' found.
+        def UnderADollar(SPARK:SparkSession): DataFrame = {
+                                                        ^
+2022.06.17 12:50:21 INFO  compiling project3 (1 scala source)
+2022.06.17 12:50:21 INFO  time: compiled project3 in 0.33s
+2022.06.17 12:50:31 INFO  compiling project3 (1 scala source)
+2022.06.17 12:50:31 INFO  time: compiled project3 in 0.3s
+2022.06.17 12:50:34 INFO  compiling project3 (1 scala source)
+2022.06.17 12:50:34 INFO  time: compiled project3 in 0.3s
+Jun 17, 2022 12:50:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 956
+2022.06.17 12:50:37 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:137:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Product_category, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Product_category ORDER BY total_trans LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:37 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:143:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:37 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:137:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Product_category, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Product_category ORDER BY total_trans LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:37 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:143:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:38 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:137:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Product_category, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Product_category ORDER BY total_trans LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:38 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:143:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:38 INFO  compiling project3 (1 scala source)
+2022.06.17 12:50:38 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:137:26: stale bloop error: unclosed string literal
+        return spark.sql("SELECT Product_category, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Product_category ORDER BY total_trans LIMIT 10)
+                         ^
+2022.06.17 12:50:38 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:137:26: stale bloop error: unclosed string literal
+        return spark.sql("SELECT Product_category, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Product_category ORDER BY total_trans LIMIT 10)
+                         ^
+2022.06.17 12:50:38 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:138:9: stale bloop error: ')' expected but '}' found.
+        }
+        ^
+2022.06.17 12:50:38 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:142:74: stale bloop error: ';' expected but '=' found.
+        def Customer_Success_Transactions(SPARK:SparkSession): DataFrame = {
+                                                                         ^
+2022.06.17 12:50:38 INFO  time: compiled project3 in 0.2s
+2022.06.17 12:50:40 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:137:26: stale bloop error: unclosed string literal
+        return spark.sql("SELECT Product_category, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Product_category ORDER BY total_trans LIMIT 10)
+                         ^
+2022.06.17 12:50:40 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:138:9: stale bloop error: ')' expected but '}' found.
+        }
+        ^
+2022.06.17 12:50:40 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:142:74: stale bloop error: ';' expected but '=' found.
+        def Customer_Success_Transactions(SPARK:SparkSession): DataFrame = {
+                                                                         ^
+2022.06.17 12:50:40 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:137:26: stale bloop error: unclosed string literal
+        return spark.sql("SELECT Product_category, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Product_category ORDER BY total_trans LIMIT 10)
+                         ^
+2022.06.17 12:50:40 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:138:9: stale bloop error: ')' expected but '}' found.
+        }
+        ^
+2022.06.17 12:50:40 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:142:74: stale bloop error: ';' expected but '=' found.
+        def Customer_Success_Transactions(SPARK:SparkSession): DataFrame = {
+                                                                         ^
+2022.06.17 12:50:41 INFO  compiling project3 (1 scala source)
+2022.06.17 12:50:41 INFO  time: compiled project3 in 0.29s
+2022.06.17 12:50:45 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:143:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:45 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:143:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:46 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:143:16: stale bloop error: too many arguments for method sql: (sqlText: String)org.apache.spark.sql.DataFrame
+        return spark.sql(SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022.06.17 12:50:46 INFO  compiling project3 (1 scala source)
+2022.06.17 12:50:46 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:143:26: stale bloop error: unclosed string literal
+        return spark.sql("SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+                         ^
+2022.06.17 12:50:46 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:143:26: stale bloop error: unclosed string literal
+        return spark.sql("SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+                         ^
+2022.06.17 12:50:46 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:144:9: stale bloop error: ')' expected but '}' found.
+        }
+        ^
+2022.06.17 12:50:46 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:148:66: stale bloop error: ';' expected but '=' found.
+        def Top_Day_Transactions2(SPARK:SparkSession): DataFrame = {
+                                                                 ^
+2022.06.17 12:50:46 INFO  time: compiled project3 in 0.22s
+2022.06.17 12:50:50 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:143:26: stale bloop error: unclosed string literal
+        return spark.sql("SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+                         ^
+2022.06.17 12:50:50 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:144:9: stale bloop error: ')' expected but '}' found.
+        }
+        ^
+2022.06.17 12:50:50 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:148:66: stale bloop error: ';' expected but '=' found.
+        def Top_Day_Transactions2(SPARK:SparkSession): DataFrame = {
+                                                                 ^
+2022.06.17 12:50:50 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:143:26: stale bloop error: unclosed string literal
+        return spark.sql("SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10)
+                         ^
+2022.06.17 12:50:50 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:144:9: stale bloop error: ')' expected but '}' found.
+        }
+        ^
+2022.06.17 12:50:50 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:148:66: stale bloop error: ';' expected but '=' found.
+        def Top_Day_Transactions2(SPARK:SparkSession): DataFrame = {
+                                                                 ^
+2022.06.17 12:50:51 INFO  compiling project3 (1 scala source)
+2022.06.17 12:50:51 INFO  time: compiled project3 in 0.97s
+2022.06.17 12:51:16 INFO  compiling project3 (1 scala source)
+2022.06.17 12:51:16 INFO  time: compiled project3 in 0.61s
+2022.06.17 12:51:24 INFO  compiling project3 (1 scala source)
+2022.06.17 12:51:24 INFO  time: compiled project3 in 0.98s
+2022.06.17 12:51:42 INFO  compiling project3 (1 scala source)
+2022.06.17 12:51:43 INFO  time: compiled project3 in 1s
+2022.06.17 12:51:47 INFO  compiling project3 (1 scala source)
+2022.06.17 12:51:47 INFO  time: compiled project3 in 0.83s
+2022.06.17 12:51:50 INFO  compiling project3 (1 scala source)
+2022.06.17 12:51:50 INFO  time: compiled project3 in 0.89s
+2022.06.17 12:51:53 INFO  compiling project3 (1 scala source)
+2022.06.17 12:51:53 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:51:53 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:51:54 INFO  time: compiled project3 in 1.11s
+2022.06.17 12:51:56 INFO  compiling project3 (1 scala source)
+2022.06.17 12:51:56 INFO  time: compiled project3 in 0.92s
+2022.06.17 12:52:05 INFO  compiling project3 (1 scala source)
+2022.06.17 12:52:05 INFO  time: compiled project3 in 0.84s
+2022.06.17 12:52:08 INFO  compiling project3 (1 scala source)
+2022.06.17 12:52:08 INFO  time: compiled project3 in 0.83s
+2022.06.17 12:52:13 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:52:13 INFO  compiling project3 (1 scala source)
+2022.06.17 12:52:13 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:52:13 INFO  time: compiled project3 in 0.84s
+2022.06.17 12:52:19 INFO  compiling project3 (1 scala source)
+2022.06.17 12:52:19 INFO  time: compiled project3 in 0.87s
+2022.06.17 12:52:22 INFO  compiling project3 (1 scala source)
+2022.06.17 12:52:22 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:52:22 INFO  time: compiled project3 in 0.89s
+2022.06.17 12:52:26 INFO  compiling project3 (1 scala source)
+2022.06.17 12:52:26 INFO  time: compiled project3 in 0.33s
+2022.06.17 12:52:29 INFO  compiling project3 (1 scala source)
+2022.06.17 12:52:29 INFO  time: compiled project3 in 0.92s
+2022.06.17 12:52:32 INFO  compiling project3 (1 scala source)
+2022.06.17 12:52:32 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:52:33 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:52:32 INFO  time: compiled project3 in 0.87s
+2022.06.17 12:52:40 INFO  compiling project3 (1 scala source)
+2022.06.17 12:52:40 INFO  time: compiled project3 in 0.28s
+2022.06.17 12:52:43 INFO  compiling project3 (1 scala source)
+2022.06.17 12:52:43 INFO  time: compiled project3 in 0.26s
+2022.06.17 12:52:46 INFO  compiling project3 (1 scala source)
+2022.06.17 12:52:46 INFO  time: compiled project3 in 0.92s
+2022.06.17 12:52:53 INFO  compiling project3 (1 scala source)
+2022.06.17 12:52:53 INFO  time: compiled project3 in 0.89s
+2022.06.17 12:52:56 INFO  compiling project3 (1 scala source)
+2022.06.17 12:52:56 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:52:56 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:52:56 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:52:56 INFO  time: compiled project3 in 0.85s
+2022.06.17 12:53:02 INFO  compiling project3 (1 scala source)
+2022.06.17 12:53:02 INFO  time: compiled project3 in 0.26s
+2022.06.17 12:53:04 INFO  compiling project3 (1 scala source)
+2022.06.17 12:53:04 INFO  time: compiled project3 in 0.91s
+Exception in thread "pool-6-thread-1" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess$$anonfun$onCompilerJobQueue$1.apply$mcV$sp(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+2022.06.17 12:53:26 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:53:26 INFO  compiling project3 (1 scala source)
+2022.06.17 12:53:26 INFO  time: compiled project3 in 0.27s
+2022.06.17 12:53:28 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:53:28 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:53:28 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:53:29 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:53:29 INFO  compiling project3 (1 scala source)
+2022.06.17 12:53:29 INFO  time: compiled project3 in 0.29s
+2022.06.17 12:53:30 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:53:31 INFO  compiling project3 (1 scala source)
+2022.06.17 12:53:31 INFO  time: compiled project3 in 0.27s
+2022.06.17 12:53:31 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:53:32 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:53:33 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:53:33 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:53:33 INFO  compiling project3 (1 scala source)
+2022.06.17 12:53:33 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:53:34 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:53:33 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:53:34 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 12:53:33 INFO  time: compiled project3 in 0.88s
+2022.06.17 12:53:37 INFO  compiling project3 (1 scala source)
+2022.06.17 12:53:37 INFO  time: compiled project3 in 0.85s
+2022.06.17 13:05:27 INFO  compiling project3 (1 scala source)
+2022.06.17 13:05:27 INFO  time: compiled project3 in 0.92s
+2022.06.17 13:10:01 INFO  compiling project3 (1 scala source)
+2022.06.17 13:10:01 INFO  time: compiled project3 in 0.87s
+2022.06.17 13:10:04 INFO  compiling project3 (1 scala source)
+2022.06.17 13:10:04 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:10:04 INFO  time: compiled project3 in 0.87s
+2022.06.17 13:11:11 INFO  compiling project3 (1 scala source)
+2022.06.17 13:11:11 INFO  time: compiled project3 in 0.96s
+2022.06.17 13:11:41 INFO  compiling project3 (1 scala source)
+2022.06.17 13:11:41 INFO  time: compiled project3 in 0.99s
+2022.06.17 13:11:46 INFO  compiling project3 (1 scala source)
+2022.06.17 13:11:46 INFO  time: compiled project3 in 0.95s
+2022.06.17 13:11:49 INFO  compiling project3 (1 scala source)
+2022.06.17 13:11:49 INFO  time: compiled project3 in 0.96s
+2022.06.17 13:12:12 INFO  compiling project3 (1 scala source)
+2022.06.17 13:12:12 INFO  time: compiled project3 in 0.91s
+2022.06.17 13:13:56 INFO  compiling project3 (1 scala source)
+2022.06.17 13:13:56 INFO  time: compiled project3 in 0.91s
+2022.06.17 13:13:59 INFO  compiling project3 (1 scala source)
+2022.06.17 13:13:59 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:13:59 INFO  time: compiled project3 in 0.91s
+2022.06.17 13:14:04 INFO  compiling project3 (1 scala source)
+2022.06.17 13:14:04 INFO  time: compiled project3 in 0.91s
+2022.06.17 13:14:07 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:14:08 INFO  compiling project3 (1 scala source)
+2022.06.17 13:14:08 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:14:08 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:14:09 INFO  time: compiled project3 in 1.05s
+2022.06.17 13:14:11 INFO  compiling project3 (1 scala source)
+2022.06.17 13:14:11 INFO  time: compiled project3 in 0.96s
+2022.06.17 13:14:16 INFO  compiling project3 (1 scala source)
+2022.06.17 13:14:16 INFO  time: compiled project3 in 0.92s
+2022.06.17 13:14:52 INFO  compiling project3 (1 scala source)
+2022.06.17 13:14:52 INFO  time: compiled project3 in 0.92s
+2022.06.17 13:14:55 INFO  compiling project3 (1 scala source)
+2022.06.17 13:14:56 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:14:55 INFO  time: compiled project3 in 0.94s
+2022.06.17 13:15:14 INFO  compiling project3 (1 scala source)
+2022.06.17 13:15:14 INFO  time: compiled project3 in 0.92s
+2022.06.17 13:15:20 INFO  compiling project3 (1 scala source)
+2022.06.17 13:15:20 INFO  time: compiled project3 in 0.93s
+2022.06.17 13:15:31 INFO  compiling project3 (1 scala source)
+2022.06.17 13:15:33 INFO  time: compiled project3 in 1.25s
+2022.06.17 13:15:37 INFO  compiling project3 (1 scala source)
+2022.06.17 13:15:39 INFO  time: compiled project3 in 1.39s
+2022.06.17 13:15:42 INFO  compiling project3 (1 scala source)
+2022.06.17 13:15:42 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:15:42 INFO  time: compiled project3 in 0.9s
+2022.06.17 13:16:00 INFO  compiling project3 (1 scala source)
+2022.06.17 13:16:00 INFO  time: compiled project3 in 0.28s
+2022.06.17 13:16:03 INFO  compiling project3 (1 scala source)
+2022.06.17 13:16:03 INFO  time: compiled project3 in 0.28s
+2022.06.17 13:16:06 INFO  compiling project3 (1 scala source)
+2022.06.17 13:16:06 INFO  time: compiled project3 in 0.9s
+2022.06.17 13:16:09 INFO  compiling project3 (1 scala source)
+2022.06.17 13:16:09 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:09 INFO  time: compiled project3 in 0.27s
+2022.06.17 13:16:11 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:12 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:12 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:12 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:13 INFO  compiling project3 (1 scala source)
+2022.06.17 13:16:12 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:13 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:13 INFO  time: compiled project3 in 0.91s
+2022.06.17 13:16:16 INFO  compiling project3 (1 scala source)
+2022.06.17 13:16:16 INFO  time: compiled project3 in 0.9s
+2022.06.17 13:16:28 INFO  compiling project3 (1 scala source)
+2022.06.17 13:16:28 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:28 INFO  time: compiled project3 in 0.27s
+2022.06.17 13:16:29 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:31 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:32 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:32 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:32 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:34 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:34 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+Exception in thread "pool-6-thread-2" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess$$anonfun$onCompilerJobQueue$1.apply$mcV$sp(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+2022.06.17 13:16:34 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:34 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:34 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:34 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:35 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:35 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:35 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:37 INFO  compiling project3 (1 scala source)
+2022.06.17 13:16:37 INFO  time: compiled project3 in 0.29s
+2022.06.17 13:16:39 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:39 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:41 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:41 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:41 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:42 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:42 INFO  compiling project3 (1 scala source)
+2022.06.17 13:16:43 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:42 INFO  time: compiled project3 in 0.82s
+2022.06.17 13:16:45 INFO  compiling project3 (1 scala source)
+2022.06.17 13:16:45 INFO  time: compiled project3 in 0.86s
+2022.06.17 13:16:48 INFO  compiling project3 (1 scala source)
+2022.06.17 13:16:48 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:16:48 INFO  time: compiled project3 in 0.94s
+2022.06.17 13:16:54 INFO  compiling project3 (1 scala source)
+2022.06.17 13:16:54 INFO  time: compiled project3 in 0.29s
+2022.06.17 13:16:56 INFO  compiling project3 (1 scala source)
+2022.06.17 13:16:56 INFO  time: compiled project3 in 0.28s
+2022.06.17 13:16:59 INFO  compiling project3 (1 scala source)
+2022.06.17 13:16:59 INFO  time: compiled project3 in 0.94s
+2022.06.17 13:17:09 INFO  compiling project3 (1 scala source)
+2022.06.17 13:17:09 INFO  time: compiled project3 in 0.27s
+2022.06.17 13:17:14 INFO  compiling project3 (1 scala source)
+2022.06.17 13:17:14 INFO  time: compiled project3 in 0.84s
+2022.06.17 13:17:23 INFO  compiling project3 (1 scala source)
+2022.06.17 13:17:23 INFO  time: compiled project3 in 0.91s
+Jun 17, 2022 1:17:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2107
+Exception in thread "pool-6-thread-3" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess$$anonfun$onCompilerJobQueue$1.apply$mcV$sp(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+2022.06.17 13:17:27 INFO  compiling project3 (1 scala source)
+2022.06.17 13:17:27 INFO  time: compiled project3 in 0.27s
+2022.06.17 13:17:27 INFO  compiling project3 (1 scala source)
+2022.06.17 13:17:29 INFO  time: compiled project3 in 0.32s
+Jun 17, 2022 1:17:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2124
+2022.06.17 13:17:30 INFO  compiling project3 (1 scala source)
+2022.06.17 13:17:30 INFO  time: compiled project3 in 0.27s
+2022.06.17 13:17:33 INFO  compiling project3 (1 scala source)
+2022.06.17 13:17:33 INFO  time: compiled project3 in 0.88s
+2022.06.17 13:17:35 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:17:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:17:35 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:17:36 INFO  compiling project3 (1 scala source)
+2022.06.17 13:17:37 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:17:37 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:17:36 INFO  time: compiled project3 in 0.88s
+2022.06.17 13:17:39 INFO  compiling project3 (1 scala source)
+2022.06.17 13:17:39 INFO  time: compiled project3 in 0.92s
+2022.06.17 13:17:43 INFO  compiling project3 (1 scala source)
+2022.06.17 13:17:44 INFO  time: compiled project3 in 1.21s
+2022.06.17 13:17:50 INFO  compiling project3 (1 scala source)
+2022.06.17 13:17:50 INFO  time: compiled project3 in 0.92s
+2022.06.17 13:17:59 INFO  compiling project3 (1 scala source)
+2022.06.17 13:17:59 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:17:59 INFO  time: compiled project3 in 0.87s
+2022.06.17 13:18:08 INFO  compiling project3 (1 scala source)
+2022.06.17 13:18:08 INFO  time: compiled project3 in 0.88s
+2022.06.17 13:19:20 INFO  compiling project3 (1 scala source)
+2022.06.17 13:19:20 INFO  time: compiled project3 in 0.89s
+2022.06.17 13:19:57 INFO  compiling project3 (1 scala source)
+2022.06.17 13:19:57 INFO  time: compiled project3 in 0.89s
+2022.06.17 13:20:00 INFO  compiling project3 (1 scala source)
+2022.06.17 13:20:00 INFO  time: compiled project3 in 0.91s
+2022.06.17 13:20:06 INFO  compiling project3 (1 scala source)
+2022.06.17 13:20:06 INFO  time: compiled project3 in 0.86s
+2022.06.17 13:20:12 INFO  compiling project3 (1 scala source)
+2022.06.17 13:20:12 INFO  time: compiled project3 in 0.91s
+2022.06.17 13:20:17 INFO  compiling project3 (1 scala source)
+2022.06.17 13:20:17 INFO  time: compiled project3 in 0.87s
+2022.06.17 13:20:21 INFO  compiling project3 (1 scala source)
+2022.06.17 13:20:21 INFO  time: compiled project3 in 0.88s
+2022.06.17 13:20:24 INFO  compiling project3 (1 scala source)
+2022.06.17 13:20:24 INFO  time: compiled project3 in 0.89s
+2022.06.17 13:20:31 INFO  compiling project3 (1 scala source)
+2022.06.17 13:20:31 INFO  time: compiled project3 in 0.93s
+2022.06.17 13:20:35 INFO  compiling project3 (1 scala source)
+2022.06.17 13:20:35 INFO  time: compiled project3 in 1s
+2022.06.17 13:20:38 INFO  compiling project3 (1 scala source)
+2022.06.17 13:20:39 INFO  time: compiled project3 in 1s
+2022.06.17 13:20:48 INFO  compiling project3 (1 scala source)
+2022.06.17 13:20:48 INFO  time: compiled project3 in 0.9s
+2022.06.17 13:20:52 INFO  compiling project3 (1 scala source)
+2022.06.17 13:20:53 INFO  time: compiled project3 in 1.27s
+2022.06.17 13:20:58 INFO  compiling project3 (1 scala source)
+2022.06.17 13:20:58 INFO  time: compiled project3 in 0.95s
+2022.06.17 13:20:59 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:20:59 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:21:00 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:21:01 INFO  compiling project3 (1 scala source)
+2022.06.17 13:21:01 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:21:02 INFO  time: compiled project3 in 1.07s
+2022.06.17 13:21:05 INFO  compiling project3 (1 scala source)
+2022.06.17 13:21:05 INFO  time: compiled project3 in 0.96s
+2022.06.17 13:21:08 INFO  compiling project3 (1 scala source)
+2022.06.17 13:21:08 INFO  time: compiled project3 in 0.96s
+2022.06.17 13:21:12 INFO  compiling project3 (1 scala source)
+2022.06.17 13:21:13 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:21:12 INFO  time: compiled project3 in 0.91s
+2022.06.17 13:21:15 INFO  compiling project3 (1 scala source)
+2022.06.17 13:21:16 INFO  time: compiled project3 in 1.42s
+2022.06.17 13:21:18 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:21:18 INFO  compiling project3 (1 scala source)
+2022.06.17 13:21:18 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:21:20 INFO  time: compiled project3 in 1.51s
+2022.06.17 13:21:24 INFO  compiling project3 (1 scala source)
+2022.06.17 13:21:24 INFO  time: compiled project3 in 0.3s
+2022.06.17 13:21:30 INFO  compiling project3 (1 scala source)
+2022.06.17 13:21:30 INFO  time: compiled project3 in 0.81s
+2022.06.17 13:25:04 INFO  compiling project3 (1 scala source)
+2022.06.17 13:25:04 INFO  time: compiled project3 in 0.26s
+2022.06.17 13:25:06 INFO  compiling project3 (1 scala source)
+2022.06.17 13:25:06 INFO  time: compiled project3 in 0.27s
+2022.06.17 13:25:09 INFO  compiling project3 (1 scala source)
+2022.06.17 13:25:09 INFO  time: compiled project3 in 0.8s
+2022.06.17 13:25:13 INFO  compiling project3 (1 scala source)
+2022.06.17 13:25:13 INFO  time: compiled project3 in 0.78s
+2022.06.17 13:25:50 INFO  compiling project3 (1 scala source)
+2022.06.17 13:25:50 INFO  time: compiled project3 in 0.74s
+2022.06.17 13:25:53 INFO  compiling project3 (1 scala source)
+2022.06.17 13:25:53 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:25:53 INFO  time: compiled project3 in 0.75s
+Jun 17, 2022 1:26:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2579
+2022.06.17 13:26:21 INFO  compiling project3 (1 scala source)
+2022.06.17 13:26:21 INFO  time: compiled project3 in 0.97s
+2022.06.17 13:26:26 INFO  compiling project3 (1 scala source)
+2022.06.17 13:26:26 INFO  time: compiled project3 in 0.89s
+2022.06.17 13:26:31 INFO  compiling project3 (1 scala source)
+2022.06.17 13:26:32 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:31 INFO  time: compiled project3 in 0.94s
+2022.06.17 13:26:34 INFO  compiling project3 (1 scala source)
+2022.06.17 13:26:34 INFO  time: compiled project3 in 0.9s
+2022.06.17 13:26:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:37 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:37 INFO  compiling project3 (1 scala source)
+2022.06.17 13:26:38 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:38 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:38 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:37 INFO  time: compiled project3 in 0.85s
+2022.06.17 13:26:40 INFO  compiling project3 (1 scala source)
+2022.06.17 13:26:40 INFO  time: compiled project3 in 0.85s
+2022.06.17 13:26:41 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:41 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:42 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:41 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:43 INFO  compiling project3 (1 scala source)
+2022.06.17 13:26:43 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:43 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:43 INFO  time: compiled project3 in 0.9s
+2022.06.17 13:26:46 INFO  compiling project3 (1 scala source)
+2022.06.17 13:26:46 INFO  time: compiled project3 in 0.88s
+2022.06.17 13:26:47 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:48 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:47 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:49 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:49 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:49 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:49 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:50 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:49 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:50 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:51 INFO  compiling project3 (1 scala source)
+2022.06.17 13:26:51 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:52 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:51 INFO  time: compiled project3 in 0.9s
+2022.06.17 13:26:54 INFO  compiling project3 (1 scala source)
+2022.06.17 13:26:54 INFO  time: compiled project3 in 0.92s
+2022.06.17 13:26:55 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:56 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:55 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:56 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:55 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:57 INFO  compiling project3 (1 scala source)
+2022.06.17 13:26:57 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:26:57 INFO  time: compiled project3 in 0.85s
+2022.06.17 13:27:15 INFO  compiling project3 (1 scala source)
+2022.06.17 13:27:15 INFO  time: compiled project3 in 0.87s
+2022.06.17 13:27:17 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:27:17 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:27:18 INFO  compiling project3 (1 scala source)
+2022.06.17 13:27:18 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:27:18 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:27:18 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:27:18 INFO  time: compiled project3 in 0.86s
+2022.06.17 13:27:21 INFO  compiling project3 (1 scala source)
+2022.06.17 13:27:21 INFO  time: compiled project3 in 0.89s
+2022.06.17 13:27:23 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:27:23 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:27:24 INFO  compiling project3 (1 scala source)
+2022.06.17 13:27:24 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:27:25 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:27:24 INFO  time: compiled project3 in 0.85s
+2022.06.17 13:27:27 INFO  compiling project3 (1 scala source)
+2022.06.17 13:27:27 INFO  time: compiled project3 in 0.9s
+2022.06.17 13:27:29 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:27:29 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:27:29 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:27:30 INFO  compiling project3 (1 scala source)
+2022.06.17 13:27:30 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:27:30 INFO  time: compiled project3 in 0.85s
+2022.06.17 13:27:33 INFO  compiling project3 (1 scala source)
+2022.06.17 13:27:33 INFO  time: compiled project3 in 0.91s
+2022.06.17 13:27:36 INFO  compiling project3 (1 scala source)
+2022.06.17 13:27:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:27:36 INFO  time: compiled project3 in 0.87s
+2022.06.17 13:28:06 INFO  compiling project3 (1 scala source)
+2022.06.17 13:28:06 INFO  time: compiled project3 in 0.9s
+2022.06.17 13:28:08 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:28:09 INFO  compiling project3 (1 scala source)
+2022.06.17 13:28:09 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:28:09 INFO  time: compiled project3 in 0.83s
+2022.06.17 13:28:12 INFO  compiling project3 (1 scala source)
+2022.06.17 13:28:12 INFO  time: compiled project3 in 0.79s
+2022.06.17 13:28:37 INFO  compiling project3 (1 scala source)
+2022.06.17 13:28:37 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:28:37 INFO  time: compiled project3 in 0.28s
+2022.06.17 13:28:37 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:28:37 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:28:38 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:28:40 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:28:40 INFO  compiling project3 (1 scala source)
+2022.06.17 13:28:40 INFO  time: compiled project3 in 0.28s
+2022.06.17 13:28:41 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:28:42 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:28:43 INFO  compiling project3 (1 scala source)
+2022.06.17 13:28:42 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:28:43 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:28:43 INFO  time: compiled project3 in 0.78s
+2022.06.17 13:28:46 INFO  compiling project3 (1 scala source)
+2022.06.17 13:28:46 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:28:46 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:28:46 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:194:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:28:46 INFO  time: compiled project3 in 0.21s
+2022.06.17 13:28:48 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:28:48 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:194:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:28:48 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:28:48 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:194:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:28:48 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:28:48 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:194:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:28:48 INFO  compiling project3 (1 scala source)
+2022.06.17 13:28:48 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:28:48 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:28:48 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:194:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:28:48 INFO  time: compiled project3 in 0.21s
+2022.06.17 13:28:49 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:28:49 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:194:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:28:49 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:28:49 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:194:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:28:49 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:28:49 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:194:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:28:49 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:28:49 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:194:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:28:51 INFO  compiling project3 (1 scala source)
+2022.06.17 13:28:51 INFO  time: compiled project3 in 0.82s
+2022.06.17 13:29:23 INFO  compiling project3 (1 scala source)
+2022.06.17 13:29:23 INFO  time: compiled project3 in 0.29s
+2022.06.17 13:29:24 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:29:25 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:29:25 INFO  compiling project3 (1 scala source)
+2022.06.17 13:29:25 INFO  time: compiled project3 in 0.28s
+2022.06.17 13:29:26 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:29:26 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:192:9: stale bloop error: not found: value */
+        */
+        ^^
+2022.06.17 13:29:26 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:192:9: stale bloop error: not found: value */
+        */
+        ^^
+2022.06.17 13:29:26 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:192:9: stale bloop error: not found: value */
+        */
+        ^^
+2022.06.17 13:29:26 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:192:9: stale bloop error: not found: value */
+        */
+        ^^
+2022.06.17 13:29:26 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:29:26 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:192:9: stale bloop error: not found: value */
+        */
+        ^^
+2022.06.17 13:29:28 INFO  compiling project3 (1 scala source)
+2022.06.17 13:29:28 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:29:28 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:29:28 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:195:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:29:28 INFO  time: compiled project3 in 0.21s
+2022.06.17 13:29:28 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:29:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:29:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:195:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:29:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:29:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:195:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:29:31 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:29:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:29:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:195:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:29:31 INFO  compiling project3 (1 scala source)
+2022.06.17 13:29:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:29:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:29:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:195:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:29:31 INFO  time: compiled project3 in 0.21s
+2022.06.17 13:29:32 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:29:32 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:195:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:29:32 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:29:32 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:195:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:29:32 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:29:32 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:195:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:29:33 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:29:33 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:195:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:29:33 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:29:34 INFO  compiling project3 (1 scala source)
+2022.06.17 13:29:34 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:29:34 INFO  time: compiled project3 in 0.79s
+2022.06.17 13:30:16 INFO  compiling project3 (1 scala source)
+2022.06.17 13:30:16 INFO  time: compiled project3 in 0.81s
+2022.06.17 13:30:20 INFO  compiling project3 (1 scala source)
+2022.06.17 13:30:20 INFO  time: compiled project3 in 0.29s
+2022.06.17 13:30:23 INFO  compiling project3 (1 scala source)
+2022.06.17 13:30:23 INFO  time: compiled project3 in 0.81s
+2022.06.17 13:30:26 INFO  compiling project3 (1 scala source)
+2022.06.17 13:30:26 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:26 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:26 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:30:26 INFO  time: compiled project3 in 0.21s
+2022.06.17 13:30:28 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:28 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:30:28 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:28 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:30:29 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:29 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:30:29 INFO  compiling project3 (1 scala source)
+2022.06.17 13:30:29 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:29 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:29 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:30:29 INFO  time: compiled project3 in 0.22s
+2022.06.17 13:30:29 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:29 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:30:29 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:29 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:30:30 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:30 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:30:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:30:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:30:31 INFO  compiling project3 (1 scala source)
+2022.06.17 13:30:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:30:31 INFO  time: compiled project3 in 0.2s
+2022.06.17 13:30:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:30:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:30:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:30:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:30:31 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:30:33 INFO  compiling project3 (1 scala source)
+2022.06.17 13:30:33 INFO  time: compiled project3 in 0.83s
+2022.06.17 13:31:14 INFO  compiling project3 (1 scala source)
+2022.06.17 13:31:14 INFO  time: compiled project3 in 0.27s
+2022.06.17 13:31:16 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:31:18 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:31:19 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:31:19 INFO  compiling project3 (1 scala source)
+2022.06.17 13:31:19 INFO  time: compiled project3 in 0.34s
+2022.06.17 13:31:20 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:31:22 INFO  compiling project3 (1 scala source)
+2022.06.17 13:31:22 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:31:22 INFO  time: compiled project3 in 0.81s
+2022.06.17 13:31:40 INFO  compiling project3 (1 scala source)
+2022.06.17 13:31:40 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:31:40 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:31:40 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:31:40 INFO  time: compiled project3 in 0.2s
+2022.06.17 13:31:41 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:31:41 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:31:41 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:31:41 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:31:41 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:31:41 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:31:43 INFO  compiling project3 (1 scala source)
+2022.06.17 13:31:43 INFO  time: compiled project3 in 0.79s
+2022.06.17 13:31:51 INFO  compiling project3 (1 scala source)
+2022.06.17 13:31:51 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:31:51 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:31:51 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:31:51 INFO  time: compiled project3 in 0.2s
+2022.06.17 13:31:53 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:31:53 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:31:53 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:31:53 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:31:53 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:31:53 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:31:54 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 13:31:54 INFO  compiling project3 (1 scala source)
+2022.06.17 13:31:54 INFO  time: compiled project3 in 0.86s
+2022.06.17 13:32:05 INFO  compiling project3 (1 scala source)
+2022.06.17 13:32:05 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:32:05 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:32:05 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:32:05 INFO  time: compiled project3 in 0.2s
+2022.06.17 13:32:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:32:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:32:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:32:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:32:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:32:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:32:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:32:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:32:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:32:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:32:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:32:08 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:32:09 INFO  compiling project3 (1 scala source)
+2022.06.17 13:32:10 INFO  time: compiled project3 in 1.21s
+2022.06.17 13:33:05 INFO  compiling project3 (1 scala source)
+2022.06.17 13:33:05 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:33:05 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:33:05 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:33:05 INFO  time: compiled project3 in 0.22s
+2022.06.17 13:33:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:33:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:33:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:33:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:33:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:33:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:33:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:33:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:33:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:33:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:33:07 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:33:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:33:07 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:196:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:33:08 INFO  compiling project3 (1 scala source)
+2022.06.17 13:33:09 INFO  time: compiled project3 in 1.19s
+2022.06.17 13:33:14 INFO  compiling project3 (1 scala source)
+2022.06.17 13:33:14 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:124:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:33:14 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:124:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:33:14 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:195:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:33:14 INFO  time: compiled project3 in 0.2s
+2022.06.17 13:33:16 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:124:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:33:16 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:195:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:33:16 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:124:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:33:16 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:195:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:33:16 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:124:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 13:33:16 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:195:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 13:33:17 INFO  compiling project3 (1 scala source)
+2022.06.17 13:33:17 INFO  time: compiled project3 in 0.96s
