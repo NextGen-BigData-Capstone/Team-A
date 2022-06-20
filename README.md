@@ -24,10 +24,17 @@ This is a team A analysis project that queries the information taken from Khafka
 >- Used to format program in the application
 
 # Features
-
- 
- 
+CSV files
+Mircosoft Powerpoint
+Qlik
+VSCODE
+Spark-Shell
+Spark.sql
+Spark Build 
 **To-do list**
+Add more trends and queries to VSCODE
+Add Graphs and Charts to PowerPoint
+Limit the amount of unecessary queries inside PowerPoint
 
 # Getting Started
 
@@ -71,14 +78,14 @@ Analyze data of CSV files with any data visualization tool you are comfortable w
 
 >![R Studio](https://ucarecdn.com/08129904-899e-484d-99fb-197df7293ea8/R.png)
 # Contributors
->- Anthony Feliciano
->- Devene Gayle
->- Alexander Huang
->- Khoa La
->- Kolby Lingerfelt
->- Jodi Mitchell
->- Keren Sangalaza
->- Mpagi Sendawula
->- Jerry Scott
->- Kieran Vergara
+>- Anthony Feliciano - Khafka Consumer Team, Query/Trend Team
+>- Devene Gayle - Visualization Team
+>- Alexander Huang - Query/Trend Team 
+>- Khoa La - Query/Trend Team,Khafka Consumer Team 
+>- Kolby Lingerfelt - Query/Trend Team,Scrum Master
+>- Jodi Mitchell - Query/Trend Team,Kafka Consumer Team
+>- Keren Sangalaza -Visualization Team,Query/Trend Team
+>- Mpagi Sendawula - Khafka Consumer Team, Query/Trend Team
+>- Jerry Scott - Visualization Team
+>- Kieran Vergara - Khafka Consumer Team,Query/Trend Team
 
