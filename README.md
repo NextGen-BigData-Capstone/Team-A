@@ -71,14 +71,14 @@ Analyze data of CSV files with any data visualization tool you are comfortable w
 
 >![R Studio](https://ucarecdn.com/08129904-899e-484d-99fb-197df7293ea8/R.png)
 # Contributors
->Anthony Feliciano
->Devene Gayle
->Alexander Huang
->Khoa La
->Kolby Lingerfelt
->Jodi Mitchell
->Keren Sangalaza
->Mpagi Sendawula
->Jerry Scott
->Kieran Vergara
+>- Anthony Feliciano
+>- Devene Gayle
+>- Alexander Huang
+>- Khoa La
+>- Kolby Lingerfelt
+>- Jodi Mitchell
+>- Keren Sangalaza
+>- Mpagi Sendawula
+>- Jerry Scott
+>- Kieran Vergara
 
