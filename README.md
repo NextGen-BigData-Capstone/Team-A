@@ -24,17 +24,27 @@ This is a team A analysis project that queries the information taken from Khafka
 >- Used to format program in the application
 
 # Features
-CSV files
-Mircosoft Powerpoint
-Qlik
-VSCODE
-Spark-Shell
-Spark.sql
-Spark Build 
-**To-do list**
-Add more trends and queries to VSCODE
-Add Graphs and Charts to PowerPoint
-Limit the amount of unecessary queries inside PowerPoint
+>-CSV files
+>
+>-Mircosoft Powerpoint
+>
+>-Qlik
+>
+>-VSCODE
+>
+>-Spark-Shell
+>
+>-Spark.sql
+>
+>-Spark Build 
+>
+# To-do list
+>-Add more trends and queries to VSCODE
+>
+>-Add Graphs and Charts to PowerPoint
+>
+>-Limit the amount of unecessary queries inside PowerPoint
+>
 
 # Getting Started
 
