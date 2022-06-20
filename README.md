@@ -67,9 +67,9 @@ Enter Spark-Shell REPL
 >>
 
 Analyze data of CSV files with any data visualization tool you are comfortable with. 
-![Qlik](https://ucarecdn.com/3f7df306-adc0-4c28-a59b-fad088cc33a1/qlikvectorlogosmall.png)
+>![Qlik](https://ucarecdn.com/3f7df306-adc0-4c28-a59b-fad088cc33a1/qlikvectorlogosmall.png)
 
-![R Studio](https://ucarecdn.com/08129904-899e-484d-99fb-197df7293ea8/R.png)
+>![R Studio](https://ucarecdn.com/08129904-899e-484d-99fb-197df7293ea8/R.png)
 # Contributors
 >Anthony Feliciano
 >Devene Gayle
@@ -81,5 +81,4 @@ Analyze data of CSV files with any data visualization tool you are comfortable w
 >Mpagi Sendawula
 >Jerry Scott
 >Kieran Vergara
-
 
