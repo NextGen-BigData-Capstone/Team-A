@@ -6,27 +6,27 @@ This is a team A analysis project that queries the information taken from Khafka
 # Technologies Used
 
 **VSCODE**
->- Was an IDE used by members of the team to query and collect data from Kafka consumer and producer
+>- IDE utilized to query and collect data from Kafka consumer and producer
 
 **CSV files**
->- Was used to collect the data collected from Kafka Consumer and create graphs and charts
+>- The selected output for our queries to be saved to in order to visualize data
 
 **SparkShell**
->- An alternative method that was used to query data from Kafka Consumer
+>- An additional method to query data using our Kafka Consumer
 
 **Qlik**
 >- A visual aid used to create graphs and charts for a PowerPoint presentation
 
-**Microsoft Powerpoint**
->- Used to present query information for Capstone project
+**Google Slides**
+>- Presentation tool
 
 **Scala**
->- Used to format program in the application
+>- The language the program was built on
 
 # Features
 >-CSV files
 >
->-Mircosoft Powerpoint
+>-Google Slides
 >
 >-Qlik
 >
