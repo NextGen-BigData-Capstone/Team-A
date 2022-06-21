@@ -2277,3 +2277,968 @@ WARNING: Unmatched cancel notification for request id 2579
  ^
 2022.06.17 13:33:17 INFO  compiling project3 (1 scala source)
 2022.06.17 13:33:17 INFO  time: compiled project3 in 0.96s
+2022.06.17 13:36:42 INFO  compiling project3 (1 scala source)
+2022.06.17 13:36:42 INFO  time: compiled project3 in 0.88s
+2022.06.17 14:39:30 INFO  compiling project3 (1 scala source)
+2022.06.17 14:39:31 INFO  time: compiled project3 in 1.08s
+2022.06.17 14:40:09 INFO  compiling project3 (1 scala source)
+2022.06.17 14:40:09 INFO  time: compiled project3 in 0.87s
+2022.06.17 14:40:13 INFO  compiling project3 (1 scala source)
+2022.06.17 14:40:13 INFO  time: compiled project3 in 0.98s
+2022.06.17 14:40:16 INFO  compiling project3 (1 scala source)
+2022.06.17 14:40:16 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:40:17 INFO  time: compiled project3 in 1.04s
+2022.06.17 14:40:21 INFO  compiling project3 (1 scala source)
+2022.06.17 14:40:21 INFO  time: compiled project3 in 0.98s
+2022.06.17 14:42:03 INFO  compiling project3 (1 scala source)
+2022.06.17 14:42:03 INFO  time: compiled project3 in 0.98s
+2022.06.17 14:42:06 INFO  compiling project3 (1 scala source)
+2022.06.17 14:42:06 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:42:06 INFO  time: compiled project3 in 0.99s
+2022.06.17 14:42:12 INFO  compiling project3 (1 scala source)
+2022.06.17 14:42:12 INFO  time: compiled project3 in 0.98s
+2022.06.17 14:42:25 INFO  compiling project3 (1 scala source)
+2022.06.17 14:42:26 INFO  time: compiled project3 in 1.01s
+2022.06.17 14:43:27 INFO  compiling project3 (1 scala source)
+2022.06.17 14:43:28 INFO  time: compiled project3 in 1.1s
+2022.06.17 14:43:32 INFO  compiling project3 (1 scala source)
+2022.06.17 14:43:33 INFO  time: compiled project3 in 1.05s
+2022.06.17 14:43:36 INFO  compiling project3 (1 scala source)
+2022.06.17 14:43:37 INFO  time: compiled project3 in 1.04s
+2022.06.17 14:43:55 INFO  compiling project3 (1 scala source)
+2022.06.17 14:43:55 INFO  time: compiled project3 in 0.98s
+2022.06.17 14:44:09 INFO  compiling project3 (1 scala source)
+2022.06.17 14:44:09 INFO  time: compiled project3 in 0.97s
+2022.06.17 14:44:12 INFO  compiling project3 (1 scala source)
+2022.06.17 14:44:13 INFO  time: compiled project3 in 1.02s
+2022.06.17 14:44:16 INFO  compiling project3 (1 scala source)
+2022.06.17 14:44:17 INFO  time: compiled project3 in 1.17s
+2022.06.17 14:44:21 INFO  compiling project3 (1 scala source)
+2022.06.17 14:44:22 INFO  time: compiled project3 in 1.05s
+2022.06.17 14:44:28 INFO  compiling project3 (1 scala source)
+2022.06.17 14:44:29 INFO  time: compiled project3 in 1.06s
+2022.06.17 14:44:31 INFO  compiling project3 (1 scala source)
+2022.06.17 14:44:31 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:44:31 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:44:31 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:44:32 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:44:32 INFO  time: compiled project3 in 1.41s
+2022.06.17 14:44:34 INFO  compiling project3 (1 scala source)
+2022.06.17 14:44:36 INFO  time: compiled project3 in 1.41s
+2022.06.17 14:45:39 INFO  compiling project3 (1 scala source)
+2022.06.17 14:45:39 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:45:39 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:45:39 INFO  time: compiled project3 in 0.97s
+2022.06.17 14:45:42 INFO  compiling project3 (1 scala source)
+2022.06.17 14:45:42 INFO  time: compiled project3 in 0.95s
+2022.06.17 14:45:44 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:45:45 INFO  compiling project3 (1 scala source)
+2022.06.17 14:45:45 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:45:45 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:45:46 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:45:45 INFO  time: compiled project3 in 0.97s
+2022.06.17 14:45:48 INFO  compiling project3 (1 scala source)
+2022.06.17 14:45:48 INFO  time: compiled project3 in 0.95s
+2022.06.17 14:45:49 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:45:51 INFO  compiling project3 (1 scala source)
+2022.06.17 14:45:51 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:45:51 INFO  time: compiled project3 in 0.97s
+2022.06.17 14:45:54 INFO  compiling project3 (1 scala source)
+2022.06.17 14:45:54 INFO  time: compiled project3 in 0.98s
+2022.06.17 14:46:04 INFO  compiling project3 (1 scala source)
+2022.06.17 14:46:04 INFO  time: compiled project3 in 0.93s
+2022.06.17 14:46:18 INFO  compiling project3 (1 scala source)
+2022.06.17 14:46:19 INFO  time: compiled project3 in 1.01s
+2022.06.17 14:46:21 INFO  compiling project3 (1 scala source)
+2022.06.17 14:46:22 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:46:22 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:46:21 INFO  time: compiled project3 in 0.97s
+2022.06.17 14:46:24 INFO  compiling project3 (1 scala source)
+2022.06.17 14:46:24 INFO  time: compiled project3 in 0.99s
+Jun 17, 2022 2:46:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3579
+2022.06.17 14:46:44 INFO  compiling project3 (1 scala source)
+2022.06.17 14:46:45 INFO  time: compiled project3 in 1.12s
+2022.06.17 14:47:05 INFO  compiling project3 (1 scala source)
+2022.06.17 14:47:05 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:57:13: stale bloop error: unclosed comment
+            /*
+            ^
+2022.06.17 14:47:05 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:57:13: stale bloop error: unclosed comment
+            /*
+            ^
+2022.06.17 14:47:05 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:238:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:47:05 INFO  time: compiled project3 in 0.2s
+2022.06.17 14:47:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:57:13: stale bloop error: unclosed comment
+            /*
+            ^
+2022.06.17 14:47:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:238:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:47:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:57:13: stale bloop error: unclosed comment
+            /*
+            ^
+2022.06.17 14:47:06 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:238:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:47:07 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:57:13: stale bloop error: unclosed comment
+            /*
+            ^
+2022.06.17 14:47:07 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:238:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:47:07 INFO  compiling project3 (1 scala source)
+2022.06.17 14:47:07 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:57:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:47:07 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:57:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:47:07 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:238:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:47:07 INFO  time: compiled project3 in 0.19s
+2022.06.17 14:47:12 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:57:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:47:12 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:238:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:47:12 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:57:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:47:12 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:238:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:47:12 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:57:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:47:12 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:238:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:47:13 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:57:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:47:13 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:238:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:47:13 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:57:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:47:13 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:238:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:47:13 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:57:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:47:13 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:238:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:47:14 INFO  compiling project3 (1 scala source)
+2022.06.17 14:47:14 INFO  time: compiled project3 in 0.83s
+2022.06.17 14:47:18 INFO  compiling project3 (1 scala source)
+2022.06.17 14:47:18 INFO  time: compiled project3 in 0.83s
+2022.06.17 14:47:46 INFO  compiling project3 (1 scala source)
+2022.06.17 14:47:46 INFO  time: compiled project3 in 0.28s
+2022.06.17 14:48:46 INFO  compiling project3 (1 scala source)
+2022.06.17 14:48:46 INFO  time: compiled project3 in 0.29s
+2022.06.17 14:48:49 INFO  compiling project3 (1 scala source)
+2022.06.17 14:48:49 INFO  time: compiled project3 in 0.26s
+2022.06.17 14:49:53 INFO  compiling project3 (1 scala source)
+2022.06.17 14:49:53 INFO  time: compiled project3 in 0.21s
+2022.06.17 14:50:07 INFO  compiling project3 (1 scala source)
+2022.06.17 14:50:07 INFO  time: compiled project3 in 0.2s
+2022.06.17 14:50:09 INFO  compiling project3 (1 scala source)
+2022.06.17 14:50:09 INFO  time: compiled project3 in 0.29s
+2022.06.17 14:50:10 INFO  compiling project3 (1 scala source)
+2022.06.17 14:50:10 INFO  time: compiled project3 in 0.32s
+2022.06.17 14:50:14 INFO  compiling project3 (1 scala source)
+2022.06.17 14:50:14 INFO  time: compiled project3 in 0.27s
+2022.06.17 14:50:19 INFO  compiling project3 (1 scala source)
+2022.06.17 14:50:19 INFO  time: compiled project3 in 0.28s
+2022.06.17 14:51:29 INFO  compiling project3 (1 scala source)
+2022.06.17 14:51:29 INFO  time: compiled project3 in 0.86s
+2022.06.17 14:51:32 INFO  compiling project3 (1 scala source)
+2022.06.17 14:51:32 INFO  time: compiled project3 in 0.29s
+2022.06.17 14:51:34 INFO  compiling project3 (1 scala source)
+2022.06.17 14:51:34 INFO  time: compiled project3 in 0.92s
+2022.06.17 14:51:37 INFO  compiling project3 (1 scala source)
+2022.06.17 14:51:37 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:37:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:51:37 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:37:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:51:37 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:252:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:51:37 INFO  time: compiled project3 in 0.21s
+2022.06.17 14:51:37 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:51:39 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:37:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:51:39 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:252:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:51:39 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:37:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:51:39 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:252:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:51:39 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:51:39 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:37:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:51:39 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:252:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:51:39 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:37:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:51:39 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:252:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:51:39 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:37:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:51:39 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:252:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:51:39 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:37:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.17 14:51:39 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:252:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.17 14:51:40 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:51:41 INFO  compiling project3 (1 scala source)
+2022.06.17 14:51:41 INFO  time: compiled project3 in 0.33s
+2022.06.17 14:51:43 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:51:55 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:52:20 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:52:22 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:52:22 INFO  compiling project3 (1 scala source)
+2022.06.17 14:52:22 INFO  time: compiled project3 in 0.31s
+2022.06.17 14:52:25 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:52:41 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:52:41 INFO  compiling project3 (1 scala source)
+2022.06.17 14:52:41 INFO  time: compiled project3 in 0.26s
+2022.06.17 14:52:42 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:52:44 INFO  compiling project3 (1 scala source)
+2022.06.17 14:52:44 INFO  time: compiled project3 in 0.31s
+2022.06.17 14:52:44 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:52:47 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:03 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:07 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:07 INFO  compiling project3 (1 scala source)
+2022.06.17 14:53:07 INFO  time: compiled project3 in 0.27s
+2022.06.17 14:53:08 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:09 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:09 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:10 INFO  compiling project3 (1 scala source)
+2022.06.17 14:53:09 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:10 INFO  time: compiled project3 in 0.27s
+2022.06.17 14:53:10 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:10 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:11 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:12 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:13 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:13 INFO  compiling project3 (1 scala source)
+2022.06.17 14:53:13 INFO  time: compiled project3 in 0.28s
+2022.06.17 14:53:16 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:20 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:20 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:21 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:21 INFO  compiling project3 (1 scala source)
+2022.06.17 14:53:21 INFO  time: compiled project3 in 0.27s
+2022.06.17 14:53:22 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:23 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:24 INFO  compiling project3 (1 scala source)
+2022.06.17 14:53:24 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:24 INFO  time: compiled project3 in 0.29s
+2022.06.17 14:53:24 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:26 INFO  compiling project3 (1 scala source)
+2022.06.17 14:53:26 INFO  time: compiled project3 in 0.28s
+2022.06.17 14:53:26 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:26 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:26 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:26 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:26 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:27 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:27 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:29 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:32 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:33 INFO  compiling project3 (1 scala source)
+2022.06.17 14:53:33 INFO  time: compiled project3 in 0.29s
+2022.06.17 14:53:34 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:36 INFO  compiling project3 (1 scala source)
+2022.06.17 14:53:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:36 INFO  time: compiled project3 in 0.3s
+2022.06.17 14:53:38 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:39 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:40 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:41 INFO  compiling project3 (1 scala source)
+2022.06.17 14:53:41 INFO  time: compiled project3 in 0.27s
+2022.06.17 14:53:44 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:44 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:47 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:48 INFO  compiling project3 (1 scala source)
+2022.06.17 14:53:48 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:48 INFO  time: compiled project3 in 0.28s
+2022.06.17 14:53:49 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:49 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:50 INFO  compiling project3 (1 scala source)
+2022.06.17 14:53:50 INFO  time: compiled project3 in 0.29s
+2022.06.17 14:53:50 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:52 INFO  compiling project3 (1 scala source)
+2022.06.17 14:53:53 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:52 INFO  time: compiled project3 in 0.29s
+2022.06.17 14:53:55 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:55 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:56 INFO  compiling project3 (1 scala source)
+2022.06.17 14:53:56 INFO  time: compiled project3 in 0.29s
+2022.06.17 14:53:57 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:57 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:58 INFO  compiling project3 (1 scala source)
+2022.06.17 14:53:58 INFO  time: compiled project3 in 0.28s
+2022.06.17 14:53:58 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:53:59 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:00 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:01 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:02 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:02 INFO  compiling project3 (1 scala source)
+2022.06.17 14:54:02 INFO  time: compiled project3 in 0.28s
+2022.06.17 14:54:03 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:04 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:05 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:06 INFO  compiling project3 (1 scala source)
+2022.06.17 14:54:06 INFO  time: compiled project3 in 0.28s
+2022.06.17 14:54:09 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:09 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:10 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:10 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:10 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:11 INFO  compiling project3 (1 scala source)
+2022.06.17 14:54:11 INFO  time: compiled project3 in 0.28s
+2022.06.17 14:54:12 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:13 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:15 INFO  compiling project3 (1 scala source)
+2022.06.17 14:54:15 INFO  time: compiled project3 in 0.28s
+2022.06.17 14:54:18 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:18 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:19 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:21 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:22 INFO  compiling project3 (1 scala source)
+2022.06.17 14:54:22 INFO  time: compiled project3 in 0.29s
+2022.06.17 14:54:22 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:24 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:27 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:28 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:29 INFO  compiling project3 (1 scala source)
+2022.06.17 14:54:29 INFO  time: compiled project3 in 0.3s
+2022.06.17 14:54:32 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:33 INFO  compiling project3 (1 scala source)
+2022.06.17 14:54:33 INFO  time: compiled project3 in 0.29s
+2022.06.17 14:54:34 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:35 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:37 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:37 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:38 INFO  compiling project3 (1 scala source)
+2022.06.17 14:54:38 INFO  time: compiled project3 in 0.55s
+2022.06.17 14:54:40 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:41 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:41 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:41 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:43 INFO  compiling project3 (1 scala source)
+2022.06.17 14:54:43 INFO  time: compiled project3 in 0.29s
+2022.06.17 14:54:44 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:46 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:46 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:47 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:47 INFO  compiling project3 (1 scala source)
+2022.06.17 14:54:47 INFO  time: compiled project3 in 0.28s
+2022.06.17 14:54:49 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:50 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:50 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:51 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:50 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:52 INFO  compiling project3 (1 scala source)
+2022.06.17 14:54:52 INFO  time: compiled project3 in 0.27s
+2022.06.17 14:54:53 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:54 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:54 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:55 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:56 INFO  compiling project3 (1 scala source)
+2022.06.17 14:54:56 INFO  time: compiled project3 in 0.26s
+2022.06.17 14:54:57 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:58 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:59 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:54:59 INFO  compiling project3 (1 scala source)
+2022.06.17 14:54:59 INFO  time: compiled project3 in 0.28s
+2022.06.17 14:55:01 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:55:01 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:55:01 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:55:02 INFO  compiling project3 (1 scala source)
+2022.06.17 14:55:02 INFO  time: compiled project3 in 0.28s
+2022.06.17 14:55:03 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:55:05 INFO  compiling project3 (1 scala source)
+2022.06.17 14:55:05 INFO  time: compiled project3 in 0.28s
+2022.06.17 14:55:05 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:55:07 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:55:07 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:55:09 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:55:10 INFO  compiling project3 (1 scala source)
+2022.06.17 14:55:10 INFO  time: compiled project3 in 0.87s
+2022.06.17 14:55:25 INFO  compiling project3 (1 scala source)
+2022.06.17 14:55:25 INFO  time: compiled project3 in 0.87s
+2022.06.17 14:55:28 INFO  compiling project3 (1 scala source)
+2022.06.17 14:55:29 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:55:28 INFO  time: compiled project3 in 0.9s
+2022.06.17 14:56:07 INFO  compiling project3 (1 scala source)
+2022.06.17 14:56:08 INFO  time: compiled project3 in 1.06s
+2022.06.17 14:56:10 INFO  compiling project3 (1 scala source)
+2022.06.17 14:56:10 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:56:10 INFO  time: compiled project3 in 0.93s
+2022.06.17 14:56:26 INFO  compiling project3 (1 scala source)
+2022.06.17 14:56:26 INFO  time: compiled project3 in 0.89s
+2022.06.17 14:56:28 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:56:28 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:56:28 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:56:28 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:56:29 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:56:29 INFO  compiling project3 (1 scala source)
+2022.06.17 14:56:29 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:56:29 INFO  time: compiled project3 in 0.85s
+2022.06.17 14:56:34 INFO  compiling project3 (1 scala source)
+2022.06.17 14:56:34 INFO  time: compiled project3 in 0.9s
+2022.06.17 14:56:37 INFO  compiling project3 (1 scala source)
+2022.06.17 14:56:37 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:56:37 INFO  time: compiled project3 in 0.89s
+2022.06.17 14:56:43 INFO  compiling project3 (1 scala source)
+2022.06.17 14:56:43 INFO  time: compiled project3 in 0.86s
+2022.06.17 14:56:46 INFO  compiling project3 (1 scala source)
+2022.06.17 14:56:47 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:56:46 INFO  time: compiled project3 in 0.88s
+2022.06.17 14:56:54 INFO  compiling project3 (1 scala source)
+2022.06.17 14:56:54 INFO  time: compiled project3 in 0.85s
+2022.06.17 14:56:57 INFO  compiling project3 (1 scala source)
+2022.06.17 14:56:57 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 14:56:57 INFO  time: compiled project3 in 0.86s
+2022.06.17 15:08:27 INFO  compiling project3 (1 scala source)
+2022.06.17 15:08:27 INFO  time: compiled project3 in 0.88s
+2022.06.17 15:08:30 INFO  compiling project3 (1 scala source)
+2022.06.17 15:08:30 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:08:30 INFO  time: compiled project3 in 0.89s
+2022.06.17 15:09:14 INFO  compiling project3 (1 scala source)
+2022.06.17 15:09:14 INFO  time: compiled project3 in 0.85s
+2022.06.17 15:09:17 INFO  compiling project3 (1 scala source)
+2022.06.17 15:09:17 INFO  time: compiled project3 in 0.87s
+2022.06.17 15:09:54 INFO  compiling project3 (1 scala source)
+2022.06.17 15:09:54 INFO  time: compiled project3 in 0.85s
+2022.06.17 15:10:22 INFO  compiling project3 (1 scala source)
+2022.06.17 15:10:22 INFO  time: compiled project3 in 0.94s
+2022.06.17 15:10:25 INFO  compiling project3 (1 scala source)
+2022.06.17 15:10:26 INFO  time: compiled project3 in 1.18s
+2022.06.17 15:10:29 INFO  compiling project3 (1 scala source)
+2022.06.17 15:10:30 INFO  time: compiled project3 in 1.14s
+2022.06.17 15:11:17 INFO  compiling project3 (1 scala source)
+2022.06.17 15:11:17 INFO  time: compiled project3 in 0.85s
+2022.06.17 15:11:21 INFO  compiling project3 (1 scala source)
+2022.06.17 15:11:21 INFO  time: compiled project3 in 0.84s
+2022.06.17 15:11:51 INFO  compiling project3 (1 scala source)
+2022.06.17 15:11:51 INFO  time: compiled project3 in 0.85s
+2022.06.17 15:12:04 INFO  compiling project3 (1 scala source)
+2022.06.17 15:12:04 INFO  time: compiled project3 in 0.87s
+2022.06.17 15:12:11 INFO  compiling project3 (1 scala source)
+2022.06.17 15:12:11 INFO  time: compiled project3 in 0.95s
+2022.06.17 15:15:33 INFO  compiling project3 (1 scala source)
+2022.06.17 15:15:33 INFO  time: compiled project3 in 0.87s
+2022.06.17 15:16:23 INFO  compiling project3 (1 scala source)
+2022.06.17 15:16:23 INFO  time: compiled project3 in 0.85s
+2022.06.17 15:16:26 INFO  compiling project3 (1 scala source)
+2022.06.17 15:16:26 INFO  time: compiled project3 in 0.85s
+2022.06.17 15:17:55 INFO  compiling project3 (1 scala source)
+2022.06.17 15:17:55 INFO  time: compiled project3 in 0.28s
+2022.06.17 15:17:58 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:06 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:06 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:07 INFO  compiling project3 (1 scala source)
+2022.06.17 15:18:07 INFO  time: compiled project3 in 0.29s
+2022.06.17 15:18:09 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:09 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:10 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:11 INFO  compiling project3 (1 scala source)
+2022.06.17 15:18:11 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:18:13 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:16 INFO  compiling project3 (1 scala source)
+2022.06.17 15:18:16 INFO  time: compiled project3 in 0.25s
+2022.06.17 15:18:17 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:18 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:18 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:18 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+Jun 17, 2022 3:18:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4701
+2022.06.17 15:18:19 INFO  compiling project3 (1 scala source)
+2022.06.17 15:18:19 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:18:21 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:23 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:23 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:23 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:23 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:23 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:23 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:23 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:23 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:23 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:23 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:26 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:27 INFO  compiling project3 (1 scala source)
+2022.06.17 15:18:27 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:18:29 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:31 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:32 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:32 INFO  compiling project3 (1 scala source)
+2022.06.17 15:18:32 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:18:35 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:39 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:39 INFO  compiling project3 (1 scala source)
+2022.06.17 15:18:39 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:18:41 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:42 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:43 INFO  compiling project3 (1 scala source)
+2022.06.17 15:18:43 INFO  time: compiled project3 in 0.26s
+2022.06.17 15:18:45 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:46 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:46 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:47 INFO  compiling project3 (1 scala source)
+2022.06.17 15:18:47 INFO  time: compiled project3 in 0.26s
+2022.06.17 15:18:50 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:18:50 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:02 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:02 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:04 INFO  compiling project3 (1 scala source)
+2022.06.17 15:19:04 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:19:06 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:16 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:16 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:16 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:16 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:17 INFO  compiling project3 (1 scala source)
+2022.06.17 15:19:17 INFO  time: compiled project3 in 0.26s
+2022.06.17 15:19:20 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:22 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:23 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:24 INFO  compiling project3 (1 scala source)
+2022.06.17 15:19:24 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:19:26 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:19:37 INFO  compiling project3 (1 scala source)
+2022.06.17 15:19:37 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:19:40 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:20:03 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:20:03 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:20:06 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:20:06 INFO  compiling project3 (1 scala source)
+2022.06.17 15:20:06 INFO  time: compiled project3 in 0.29s
+2022.06.17 15:20:07 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:20:10 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:20:10 INFO  compiling project3 (1 scala source)
+2022.06.17 15:20:10 INFO  time: compiled project3 in 0.3s
+2022.06.17 15:20:13 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:20:29 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:20:34 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:21:04 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:21:09 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:21:10 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:21:11 INFO  compiling project3 (1 scala source)
+2022.06.17 15:21:11 INFO  time: compiled project3 in 0.28s
+2022.06.17 15:21:13 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:21:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:21:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:21:16 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:21:17 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:21:17 INFO  compiling project3 (1 scala source)
+2022.06.17 15:21:17 INFO  time: compiled project3 in 0.29s
+2022.06.17 15:21:18 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:21:20 INFO  compiling project3 (1 scala source)
+2022.06.17 15:21:20 INFO  time: compiled project3 in 0.26s
+2022.06.17 15:21:20 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:21:22 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:21:28 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:21:30 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:21:31 INFO  compiling project3 (1 scala source)
+2022.06.17 15:21:31 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:21:31 INFO  time: compiled project3 in 0.78s
+2022.06.17 15:21:34 INFO  compiling project3 (1 scala source)
+2022.06.17 15:21:34 INFO  time: compiled project3 in 0.77s
+2022.06.17 15:22:55 INFO  compiling project3 (1 scala source)
+2022.06.17 15:22:55 INFO  time: compiled project3 in 0.31s
+2022.06.17 15:22:58 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:22:58 INFO  compiling project3 (1 scala source)
+2022.06.17 15:22:59 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:22:59 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:22:58 INFO  time: compiled project3 in 0.92s
+2022.06.17 15:23:01 INFO  compiling project3 (1 scala source)
+2022.06.17 15:23:03 INFO  time: compiled project3 in 1.12s
+2022.06.17 15:23:09 INFO  compiling project3 (1 scala source)
+2022.06.17 15:23:09 INFO  time: compiled project3 in 0.92s
+2022.06.17 15:26:10 INFO  compiling project3 (1 scala source)
+2022.06.17 15:26:10 INFO  time: compiled project3 in 0.23s
+2022.06.17 15:26:15 INFO  compiling project3 (1 scala source)
+2022.06.17 15:26:15 INFO  time: compiled project3 in 0.29s
+2022.06.17 15:26:19 INFO  compiling project3 (1 scala source)
+2022.06.17 15:26:19 INFO  time: compiled project3 in 0.25s
+2022.06.17 15:26:24 INFO  compiling project3 (1 scala source)
+2022.06.17 15:26:24 INFO  time: compiled project3 in 0.89s
+2022.06.17 15:26:27 INFO  compiling project3 (1 scala source)
+2022.06.17 15:26:27 INFO  time: compiled project3 in 0.97s
+2022.06.17 15:26:34 INFO  compiling project3 (1 scala source)
+2022.06.17 15:26:34 INFO  time: compiled project3 in 0.29s
+2022.06.17 15:26:34 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:36 INFO  compiling project3 (1 scala source)
+2022.06.17 15:26:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:36 INFO  time: compiled project3 in 0.26s
+2022.06.17 15:26:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:38 INFO  compiling project3 (1 scala source)
+2022.06.17 15:26:38 INFO  time: compiled project3 in 0.29s
+2022.06.17 15:26:39 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:41 INFO  compiling project3 (1 scala source)
+2022.06.17 15:26:41 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:26:41 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:42 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:43 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:43 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:43 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:44 INFO  compiling project3 (1 scala source)
+2022.06.17 15:26:44 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:26:44 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:45 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:46 INFO  compiling project3 (1 scala source)
+2022.06.17 15:26:46 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:26:47 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:47 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:48 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:49 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:50 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:51 INFO  compiling project3 (1 scala source)
+2022.06.17 15:26:51 INFO  time: compiled project3 in 0.26s
+2022.06.17 15:26:52 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:53 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:53 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:53 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:53 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:53 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:55 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:55 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:55 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:55 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:55 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:55 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:55 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:56 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:56 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:56 INFO  compiling project3 (1 scala source)
+2022.06.17 15:26:56 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:26:57 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:26:59 INFO  compiling project3 (1 scala source)
+2022.06.17 15:26:59 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:26:59 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:01 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:12 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:15 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:21 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:21 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:30 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:33 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:34 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:34 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:35 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:36 INFO  compiling project3 (1 scala source)
+2022.06.17 15:27:36 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:36 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:27:37 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:37 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:38 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:39 INFO  compiling project3 (1 scala source)
+2022.06.17 15:27:39 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:39 INFO  time: compiled project3 in 0.25s
+2022.06.17 15:27:41 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:43 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:44 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:45 INFO  compiling project3 (1 scala source)
+2022.06.17 15:27:45 INFO  time: compiled project3 in 0.26s
+2022.06.17 15:27:46 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:47 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:47 INFO  compiling project3 (1 scala source)
+2022.06.17 15:27:48 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:47 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:27:50 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:50 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:51 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:51 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:51 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:51 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:51 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:52 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:52 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:52 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:52 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:52 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:52 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:51 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:53 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:53 INFO  compiling project3 (1 scala source)
+2022.06.17 15:27:53 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:27:53 INFO  time: compiled project3 in 0.98s
+2022.06.17 15:27:56 INFO  compiling project3 (1 scala source)
+2022.06.17 15:27:56 INFO  time: compiled project3 in 0.96s
+2022.06.17 15:28:03 INFO  compiling project3 (1 scala source)
+2022.06.17 15:28:03 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:28:03 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:04 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:04 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:05 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:05 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:06 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:06 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:07 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:08 INFO  compiling project3 (1 scala source)
+2022.06.17 15:28:08 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:28:09 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:10 INFO  compiling project3 (1 scala source)
+2022.06.17 15:28:10 INFO  time: compiled project3 in 0.29s
+2022.06.17 15:28:11 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:11 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:12 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:13 INFO  compiling project3 (1 scala source)
+2022.06.17 15:28:13 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:13 INFO  time: compiled project3 in 0.29s
+2022.06.17 15:28:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:14 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:15 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:16 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:16 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:16 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:16 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:16 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:16 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:17 INFO  compiling project3 (1 scala source)
+2022.06.17 15:28:18 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:17 INFO  time: compiled project3 in 0.89s
+2022.06.17 15:28:20 INFO  compiling project3 (1 scala source)
+2022.06.17 15:28:21 INFO  time: compiled project3 in 1.01s
+2022.06.17 15:28:29 INFO  compiling project3 (1 scala source)
+2022.06.17 15:28:29 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:29 INFO  time: compiled project3 in 0.91s
+2022.06.17 15:28:32 INFO  compiling project3 (1 scala source)
+2022.06.17 15:28:34 INFO  time: compiled project3 in 1.28s
+2022.06.17 15:28:38 INFO  compiling project3 (1 scala source)
+2022.06.17 15:28:39 INFO  time: compiled project3 in 1.27s
+2022.06.17 15:28:57 INFO  compiling project3 (1 scala source)
+2022.06.17 15:28:58 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:28:57 INFO  time: compiled project3 in 0.91s
+2022.06.17 15:29:00 INFO  compiling project3 (1 scala source)
+2022.06.17 15:29:00 INFO  time: compiled project3 in 0.85s
+2022.06.17 15:29:03 INFO  compiling project3 (1 scala source)
+2022.06.17 15:29:03 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:29:03 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:29:03 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:29:03 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:29:03 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:29:03 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:29:03 INFO  time: compiled project3 in 0.97s
+2022.06.17 15:29:07 INFO  compiling project3 (1 scala source)
+2022.06.17 15:29:07 INFO  time: compiled project3 in 0.93s
+2022.06.17 15:29:13 INFO  compiling project3 (1 scala source)
+2022.06.17 15:29:13 INFO  time: compiled project3 in 0.84s
+2022.06.17 15:29:17 INFO  compiling project3 (1 scala source)
+2022.06.17 15:29:17 INFO  Deduplicating compilation of project3 from bsp client 'Metals 0.11.6' (since 2h 54m 21.815s)
+2022.06.17 15:29:17 INFO  compiling project3 (1 scala source)
+2022.06.17 15:29:18 INFO  time: compiled project3 in 0.27s
+2022.06.17 15:29:20 INFO  compiling project3 (1 scala source)
+2022.06.17 15:29:21 WARN  Could not load snapshot text for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala
+2022.06.17 15:29:20 INFO  time: compiled project3 in 0.89s
+Jun 17, 2022 3:29:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5610
+2022.06.17 15:29:23 INFO  compiling project3 (1 scala source)
+2022.06.17 15:29:23 INFO  time: compiled project3 in 0.92s
+2022.06.17 15:29:32 INFO  compiling project3 (1 scala source)
+2022.06.17 15:29:32 INFO  time: compiled project3 in 0.89s
+Exception in thread "pool-6-thread-4" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess$$anonfun$onCompilerJobQueue$1.apply$mcV$sp(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+2022.06.17 15:29:36 INFO  compiling project3 (1 scala source)
+2022.06.17 15:29:36 INFO  Deduplicating compilation of project3 from bsp client 'Metals 0.11.6' (since 2h 54m 41.133s)
+2022.06.17 15:29:36 INFO  compiling project3 (1 scala source)
+2022.06.17 15:29:36 INFO  time: compiled project3 in 0.31s
+2022.06.17 15:29:40 INFO  compiling project3 (1 scala source)
+2022.06.17 15:29:40 INFO  time: compiled project3 in 0.86s
+Jun 17, 2022 3:29:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5682
+2022.06.17 15:29:47 INFO  compiling project3 (1 scala source)
+2022.06.17 15:29:47 INFO  time: compiled project3 in 0.88s
+2022.06.17 15:37:36 INFO  shutting down Metals
+2022.06.17 15:37:36 INFO  Shut down connection with build server.
+2022.06.17 15:37:36 INFO  Shut down connection with build server.
+2022.06.20 13:43:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Khoa\Desktop\Project3\.metals\lsp.trace.json or C:\Users\Khoa\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.06.20 13:43:10 INFO  logging to file C:\Users\Khoa\Desktop\Project3\.metals\metals.log
+2022.06.20 13:43:10 INFO  Started: Metals version 0.11.6 in workspace 'C:\Users\Khoa\Desktop\Project3' for client Visual Studio Code 1.68.1.
+2022.06.20 13:43:11 INFO  time: initialize in 0.82s
+2022.06.20 13:43:11 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.06.20 13:43:11 INFO  Attempting to connect to the build server...
+2022.06.20 13:43:11 INFO  skipping build import with status 'Installed'
+2022.06.20 13:43:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Khoa\Desktop\Project3\.metals\bsp.trace.json or C:\Users\Khoa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.20 13:43:18 INFO  Attempting to connect to the build server...
+2022.06.20 13:43:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Khoa\Desktop\Project3\project\.metals\bsp.trace.json or C:\Users\Khoa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.20 13:43:18 INFO  time: Connected to build server in 6.58s
+2022.06.20 13:43:18 INFO  Connected to Build server: Bloop v1.5.0-18-003e6c7b
+2022.06.20 13:43:36 INFO  no build target found for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.06.20 13:43:37 INFO  time: Imported build in 0.31s
+2022.06.20 13:43:37 INFO  no build target found for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.06.20 13:43:39 INFO  time: code lens generation in 2.58s
+2022.06.20 13:44:03 INFO  time: indexed workspace in 26s
+2022.06.20 13:44:23 INFO  compiling project3 (1 scala source)
+2022.06.20 13:44:25 INFO  time: compiled project3 in 2.03s
+2022.06.20 13:44:27 INFO  compiling project3 (1 scala source)
+2022.06.20 13:44:29 INFO  time: compiled project3 in 1.92s
+2022.06.20 13:44:36 INFO  compiling project3 (1 scala source)
+2022.06.20 13:44:36 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:180:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.20 13:44:36 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:180:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.20 13:44:36 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:218:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.20 13:44:36 INFO  time: compiled project3 in 0.39s
+2022.06.20 13:44:38 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:180:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.20 13:44:38 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:218:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.20 13:44:38 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:180:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.20 13:44:38 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:218:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.20 13:44:38 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:180:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.20 13:44:38 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:218:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.20 13:44:38 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:180:9: stale bloop error: unclosed comment
+        /*
+        ^
+2022.06.20 13:44:38 INFO  file:///C:/Users/Khoa/Desktop/Project3/src/main/scala/queryCSV.scala:218:2: stale bloop error: Missing closing brace `}' assumed here
+}
+ ^
+2022.06.20 13:44:39 INFO  compiling project3 (1 scala source)
+2022.06.20 13:44:40 INFO  time: compiled project3 in 1.02s
+2022.06.20 14:00:44 INFO  shutting down Metals
+2022.06.20 14:00:44 INFO  Shut down connection with build server.
+2022.06.20 14:00:44 INFO  Shut down connection with build server.
+2022.06.20 14:23:35 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Khoa\Desktop\Project3\.metals\lsp.trace.json or C:\Users\Khoa\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.06.20 14:23:36 INFO  logging to file C:\Users\Khoa\Desktop\Project3\.metals\metals.log
+2022.06.20 14:23:36 INFO  Started: Metals version 0.11.6 in workspace 'C:\Users\Khoa\Desktop\Project3' for client Visual Studio Code 1.68.1.
+2022.06.20 14:23:37 INFO  time: initialize in 0.8s
+2022.06.20 14:23:37 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.06.20 14:23:37 INFO  Attempting to connect to the build server...
+2022.06.20 14:23:37 INFO  skipping build import with status 'Installed'
+2022.06.20 14:23:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Khoa\Desktop\Project3\.metals\bsp.trace.json or C:\Users\Khoa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.20 14:23:37 INFO  Attempting to connect to the build server...
+2022.06.20 14:23:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Khoa\Desktop\Project3\project\.metals\bsp.trace.json or C:\Users\Khoa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.20 14:23:37 INFO  time: Connected to build server in 0.2s
+2022.06.20 14:23:37 INFO  Connected to Build server: Bloop v1.5.0-18-003e6c7b
+2022.06.20 14:23:38 INFO  time: Imported build in 0.15s
+2022.06.20 14:23:44 INFO  time: indexed workspace in 5.77s
+2022.06.20 16:14:12 INFO  shutting down Metals
+2022.06.20 16:14:12 INFO  Shut down connection with build server.
+2022.06.20 16:14:12 INFO  Shut down connection with build server.
+2022.06.21 12:02:12 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Khoa\Desktop\Project3\.metals\lsp.trace.json or C:\Users\Khoa\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.06.21 12:02:13 INFO  logging to file C:\Users\Khoa\Desktop\Project3\.metals\metals.log
+2022.06.21 12:02:13 INFO  Started: Metals version 0.11.6 in workspace 'C:\Users\Khoa\Desktop\Project3' for client Visual Studio Code 1.68.1.
+2022.06.21 12:02:14 INFO  time: initialize in 0.82s
+2022.06.21 12:02:14 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.06.21 12:02:14 INFO  Attempting to connect to the build server...
+2022.06.21 12:02:14 INFO  skipping build import with status 'Installed'
+2022.06.21 12:02:17 INFO  no build target found for C:\Users\Khoa\Desktop\Project3\src\main\scala\queryCSV.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.06.21 12:02:20 INFO  time: code lens generation in 4.53s
+2022.06.21 12:02:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Khoa\Desktop\Project3\.metals\bsp.trace.json or C:\Users\Khoa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.21 12:02:21 INFO  Attempting to connect to the build server...
+2022.06.21 12:02:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Khoa\Desktop\Project3\project\.metals\bsp.trace.json or C:\Users\Khoa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.21 12:02:21 INFO  time: Connected to build server in 7.13s
+2022.06.21 12:02:21 INFO  Connected to Build server: Bloop v1.5.0-18-003e6c7b
+2022.06.21 12:02:22 INFO  time: Imported build in 0.3s
+2022.06.21 12:02:27 INFO  time: indexed workspace in 5.42s
+2022.06.21 12:25:40 INFO  compiling project3 (1 scala source)
+2022.06.21 12:25:42 INFO  time: compiled project3 in 2.43s
+2022.06.21 12:26:47 INFO  running 'C:\Program Files\Java\jdk1.8.0_331\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Khoa\AppData\Local\Temp\metals4912766734300466046\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.06.21 12:26:48 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 1.8.0_331)
+2022.06.21 12:26:50 INFO  [info] loading settings for project project3-build-build from metals.sbt ...
+2022.06.21 12:26:50 INFO  [info] loading project definition from C:\Users\Khoa\Desktop\Project3\project\project
+2022.06.21 12:26:51 INFO  [info] loading settings for project project3-build from metals.sbt ...
+2022.06.21 12:26:51 INFO  [info] loading project definition from C:\Users\Khoa\Desktop\Project3\project
+2022.06.21 12:26:54 INFO  [success] Generated .bloop\project3-build.json
+2022.06.21 12:26:54 INFO  [success] Total time: 3 s, completed Jun 21, 2022 12:26:54 PM
+2022.06.21 12:26:57 INFO  [info] loading settings for project project3 from build.sbt ...
+2022.06.21 12:26:57 INFO  [info] set current project to TeamA (in build file:/C:/Users/Khoa/Desktop/Project3/)
+2022.06.21 12:27:03 INFO  [success] Generated .bloop\project3.json
+2022.06.21 12:27:03 INFO  [success] Generated .bloop\project3-test.json
+2022.06.21 12:27:03 INFO  [success] Total time: 6 s, completed Jun 21, 2022 12:27:03 PM
+2022.06.21 12:27:04 INFO  time: ran 'sbt bloopInstall' in 16s
+2022.06.21 12:27:04 INFO  Disconnecting from Bloop session...
+2022.06.21 12:27:04 INFO  Shut down connection with build server.
+2022.06.21 12:27:04 INFO  Shut down connection with build server.
+2022.06.21 12:27:04 INFO  Attempting to connect to the build server...
+2022.06.21 12:27:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Khoa\Desktop\Project3\.metals\bsp.trace.json or C:\Users\Khoa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.21 12:27:04 INFO  Attempting to connect to the build server...
+2022.06.21 12:27:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Khoa\Desktop\Project3\project\.metals\bsp.trace.json or C:\Users\Khoa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.06.21 12:27:04 INFO  time: Connected to build server in 0.13s
+2022.06.21 12:27:04 INFO  Connected to Build server: Bloop v1.5.0-18-003e6c7b
+2022.06.21 12:27:07 INFO  time: indexed workspace in 3.27s
+2022.06.21 12:27:18 INFO  compiling project3 (1 scala source)
+2022.06.21 12:27:20 INFO  time: compiled project3 in 1.96s
+2022.06.21 12:27:40 INFO  compiling project3 (1 scala source)
+2022.06.21 12:27:41 WARN  there was one deprecation warning; re-run with -deprecation for details
+2022.06.21 12:27:41 INFO  time: compiled project3 in 1.62s
+2022.06.21 12:27:51 INFO  compiling project3 (1 scala source)
+2022.06.21 12:27:53 WARN  there was one deprecation warning; re-run with -deprecation for details
+2022.06.21 12:27:53 INFO  time: compiled project3 in 1.59s
+2022.06.21 12:32:21 INFO  compiling project3 (1 scala source)
+2022.06.21 12:32:22 WARN  there was one deprecation warning; re-run with -deprecation for details
+2022.06.21 12:32:22 INFO  time: compiled project3 in 1.43s
+2022.06.21 12:32:42 INFO  compiling project3 (2 scala sources)
+2022.06.21 12:32:43 WARN  there was one deprecation warning; re-run with -deprecation for details
+2022.06.21 12:32:43 INFO  time: compiled project3 in 1.16s

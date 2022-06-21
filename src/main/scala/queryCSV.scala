@@ -34,7 +34,7 @@ object queryCSV{
         teamA1.createOrReplaceTempView("market_data1")
         timeSales.createOrReplaceTempView("timeSales")
 
-        
+        /*
         //q5. Top 10 countries in sales
         def TopCountriesSales(spark:SparkSession): DataFrame  = {
         return spark.sql("SELECT Country,ROUND(SUM((Qty * Price)),2) as Sales FROM market_data WHERE Payment_txn_success = 'Y' GROUP BY Country order by Sales desc limit 10")
@@ -158,7 +158,7 @@ object queryCSV{
 
         val q17=Customer_Transaction_Failures(spark).repartition(1)
         q17.write.mode("overwrite").csv("Outputs/Customer_Transaction_Failures")
-        
+        */
         
         //q18. Top 15 successful wesbites in countries
         def Top15successWesbsites(spark:SparkSession): DataFrame = {
@@ -177,7 +177,7 @@ object queryCSV{
         val q19=Top15failureWebsites(spark).repartition(1)
         q19.write.mode("overwrite").csv("Outputs/Top15failureWebsites")
         
-        
+        /*
         //q20. The websites with the that had the most successful transactions
         def MostSuccessfulTransactions(spark:SparkSession): DataFrame ={
             return spark.sql("SELECT Ecomerence_website_name,COUNT(Payment_txn_success) AS Transactions FROM market_Data WHERE Payment_txn_success ='Y' GROUP BY Ecomerence_website_name limit 15")
@@ -212,7 +212,7 @@ object queryCSV{
 
         val websiteFreeQtyCSV = websiteFreeQty(spark).repartition(1)
         websiteFreeQtyCSV.write.mode("overwrite").csv("outputs/websiteFreeQty")
-            
+            */
         spark.stop()
     }
 }
