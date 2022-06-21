@@ -41,9 +41,9 @@ This is a team A analysis project that queries the information taken from Khafka
 # To-do list
 >-Add more trends and queries to VSCODE
 >
->-Add Graphs and Charts to PowerPoint
+>-Add Graphs and Charts to Google slides
 >
->-Limit the amount of unecessary queries inside PowerPoint
+>-Limit the amount of unecessary queries inside Google slides
 >
 
 # Getting Started
