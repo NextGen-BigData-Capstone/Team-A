@@ -79,12 +79,16 @@ Enter Spark-Shell REPL
 >Run Queries to produce CSV Files
 >
 >**Query 1**
->>
+>>SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'Y' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10
 >
 >**Query 2**
->>
+>>SELECT Customer_ID, Customer_name, Country, COUNT(Payment_txn_success) as total_trans FROM market_data WHERE Payment_txn_success == 'N' GROUP BY Customer_ID, Customer_name, Country ORDER BY total_trans DESC LIMIT 10
 >
 >**Query 3**
+>>"SELECT sum(QTY), Product_name, DATE From market_data1 WHERE Payment_txn_success = 'Y'AND DATE=2021 GROUP BY Product_name, DATE ORDER BY sum(QTY) desc limit 5")
+>
+>>
+>
 >>
 
 Analyze data of CSV files with any data visualization tool you are comfortable with. 
