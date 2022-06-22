@@ -50,7 +50,8 @@ This is a team A analysis project that queries the information taken from Khafka
 
 linux:
 >git clone 
-git pull 
+>git pull 
+>![enter image description here](https://ucarecdn.com/bd26066f-2180-4d40-bab5-3024a950a955/ScreenShot20220622at100249AM.png)
 
 
 VS Code: 
@@ -73,7 +74,10 @@ Start HDFS Servers
 >![enter image description here](https://ucarecdn.com/a0ee2163-6137-4f79-81b8-73fef82f9ee4/ScreenShot20220601at125037PM.png)
 >
 Enter Spark-Shell REPL 
+>
+>![enter image description here](https://ucarecdn.com/39d50981-4ce2-46cb-8241-ef33ef70dc14/ScreenShot20220622at95943AM.png)
 >Run Queries to produce CSV Files
+>
 >**Query 1**
 >>
 >
