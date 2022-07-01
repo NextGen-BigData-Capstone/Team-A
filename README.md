@@ -1,6 +1,6 @@
 # Big Data Analysis
 
-This is a team A analysis project that queries the information taken from Khafka consumer and is used to decipher trends within a CSV file. This project incorporates graphs and charts that was created from the data collect by Khafka producer.
+This is a team A analysis project that queries the information taken from Kafka consumer and is used to decipher trends within a CSV file. This project incorporates graphs and charts that was created from the data collect by Khafka producer.
 
 
 # Technologies Used
