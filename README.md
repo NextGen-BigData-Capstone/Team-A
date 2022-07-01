@@ -1,6 +1,6 @@
 # Big Data Analysis
 
-This is a team A analysis project that queries the information taken from Kafka consumer and is used to decipher trends within a CSV file. This project incorporates graphs and charts that was created from the data collect by Khafka producer.
+This is a team A analysis project that queries the information taken from Kafka consumer and is used to decipher trends within a CSV file. This project incorporates graphs and charts that was created from the data collect by Kafka producer.
 
 
 # Technologies Used
@@ -96,14 +96,14 @@ Analyze data of CSV files with any data visualization tool you are comfortable w
 
 >![R Studio](https://ucarecdn.com/08129904-899e-484d-99fb-197df7293ea8/R.png)
 # Contributors
->- Anthony Feliciano - Khafka Consumer Team, Query/Trend Team
+>- Anthony Feliciano - Kafka Consumer Team, Query/Trend Team
 >- Devene Gayle - Visualization Team
 >- Alexander Huang - Query/Trend Team 
 >- Khoa La - Query/Trend Team,Khafka Consumer Team 
 >- Kolby Lingerfelt - Query/Trend Team,Scrum Master
 >- Jodi Mitchell - Query/Trend Team,Kafka Consumer Team
 >- Keren Sangalaza -Visualization Team,Query/Trend Team
->- Mpagi Sendawula - Khafka Consumer Team, Query/Trend Team
+>- Mpagi Sendawula - Kafka Consumer Team, Query/Trend Team
 >- Jerry Scott - Visualization Team
->- Kieran Vergara - Khafka Consumer Team,Query/Trend Team
+>- Kieran Vergara - Kafka Consumer Team,Query/Trend Team
 
